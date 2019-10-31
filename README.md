@@ -6,7 +6,7 @@
 
 * Click on the "Issues" tab up above
 * Click on the "New Issue" button
-* Add a title and some summary on what the bug or enhancement request. You can also add files, like a screenshot!
+* Add a title and some details for the bug or enhancement request. You can also add files, like a screenshot!
 
 # Introducing RESET Collection Video on YouTube
 
