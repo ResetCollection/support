@@ -2,7 +2,7 @@
 
 ### A huge "THANK YOU" to those of you that are helping with testing!
 
-## To create a bug or enhanclement request:
+## To create a bug or enhancement request:
 
 * Click on the "Issues" tab up above
 * Click on the "New Issue" button
