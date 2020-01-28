@@ -1,6 +1,8 @@
 # RESET Collection
 
-### A huge "THANK YOU" to those of you that are helping with testing!
+## ReCo is on the Play Store!
+
+https://play.google.com/store/apps/details?id=com.retroloungelab.resetcollection
 
 ## To create a bug or enhancement request:
 
@@ -14,8 +16,3 @@ Check out the first RESET Collection video! Just click on the video thumbnail be
 
 [![RESET Collection YouTube video](https://img.youtube.com/vi/P1LihX2_EcY/0.jpg)](https://www.youtube.com/watch?v=P1LihX2_EcY)
 
-# ReCo is on the Play Store!
-
-Pre-registration is live now on Play Store for RESET Collection!
-
-https://play.google.com/store/apps/details?id=com.retroloungelab.resetcollection
