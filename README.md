@@ -8,6 +8,10 @@ Check out the RESET Collection tutorial video! Just click on the video thumbnail
 
 [![RESET Collection YouTube video](https://img.youtube.com/vi/mIgttRQLNkk/0.jpg)](https://www.youtube.com/watch?v=mIgttRQLNkk)
 
+## Join the RESET Collection Discord!
+
+Click [HERE](https://discord.gg/Jb65F3u) to join the RESET Discord!
+
 ## To create a bug or enhancement request:
 
 * Click on the "Issues" tab up above
