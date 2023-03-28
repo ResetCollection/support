@@ -8,13 +8,12 @@ Check out the RESET Collection tutorial video! Just click on the video thumbnail
 
 [![RESET Collection YouTube video](https://img.youtube.com/vi/mIgttRQLNkk/0.jpg)](https://www.youtube.com/watch?v=mIgttRQLNkk)
 
+# Need help? Have a suggestion? Something not working?
+
 ## Join the RESET Collection Discord!
 
 Click [HERE](https://discord.gg/Jb65F3u) to join the RESET Discord!
 
-## To create a bug or enhancement request:
+## Or send an email to:
 
-* Click on the "Issues" tab up above
-* Click on the "New Issue" button
-* Add a title and some details for the bug or enhancement request. You can also add files, like a screenshot!
-
+![](https://github.com/ResetCollection/support/blob/master/Screen%20Shot%202021-10-19%20at%2012.33.42%20PM.png?raw=true)
