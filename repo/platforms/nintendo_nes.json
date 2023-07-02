@@ -2,15 +2,18 @@
   "images": [
     {
       "url": "",
-      "type": "BOX_ART"
+      "type": "BOX_ART",
+      "default": true
     },
     {
       "url": "",
-      "type": "SCREENSHOT"
+      "type": "SCREENSHOT",
+      "default": true
     },
     {
       "url": "",
-      "type": "CLEAR_LOGO"
+      "type": "CLEAR_LOGO",
+      "default": true
     },
   ]
 }
