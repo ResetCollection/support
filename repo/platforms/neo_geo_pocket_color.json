@@ -1,0 +1,54 @@
+{
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_pocket/iYUSVWJWGJ.png",
+      "type": "BOX_ART",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_pocket/sRfQ5vxIZd.png",
+      "type": "BOX_ART",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_pocket/TQRGvLJckW.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_pocket/12zOwKV6Gn.png",
+      "type": "BACKGROUND",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_pocket/9qszDJqrLB.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_pocket/olsWfg4IfO.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_pocket/LAFYC7EpYc.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_pocket/CNbD5XVe7T.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_pocket/za9GQ2TZgH.png",
+      "type": "CLEAR_LOGO",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_pocket/lEuiPGtDRj.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    }
+  ]
+}

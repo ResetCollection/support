@@ -1,0 +1,39 @@
+{
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_7800/jP5F.png",
+      "type": "BOX_ART",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_7800/Xr7D.png",
+      "type": "BOX_ART",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_7800/2sG9.png",
+      "type": "BACKGROUND",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_7800/nY4w.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_7800/6cVx.png",
+      "type": "CLEAR_LOGO",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_7800/qR1y.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_7800/3b6T.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    }
+  ]
+}

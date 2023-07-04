@@ -1,0 +1,49 @@
+{
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/arcade/P3o4I5u6Y7k.png",
+      "type": "BOX_ART",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/arcade/G4h3F2d1S6A.png",
+      "type": "BACKGROUND",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/arcade/x7M8n9B1v2C.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/arcade/R4e5d6F7g8S.png",
+      "type": "CLEAR_LOGO",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/arcade/c9x8z7V6b5N.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/arcade/T2y3U4i5O6p.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/arcade/w1D2q3A4z5X.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/arcade/H6k7l8J9h0G.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/arcade/1x2D3c4V5b6.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    }
+  ]
+}

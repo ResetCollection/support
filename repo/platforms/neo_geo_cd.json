@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_cd/YlsTkXim8o.png",
+      "type": "BOX_ART",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_cd/UKXSpOGzNE.png",
+      "type": "BOX_ART",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_cd/m0lG2nkpxa.png",
+      "type": "BACKGROUND",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_cd/iJ8DBrfIAQ.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/neo_geo_cd/CeJcZNc3tN.png",
+      "type": "CLEAR_LOGO",
+      "default": true
+    }
+  ]
+}

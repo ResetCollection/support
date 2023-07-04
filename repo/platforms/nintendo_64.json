@@ -1,0 +1,39 @@
+{
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_64/iuuvvub4Rb.png",
+      "type": "BOX_ART",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_64/ru120HHt3W.png",
+      "type": "BOX_ART",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_64/cn0z6eQMhb.png",
+      "type": "BACKGROUND",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_64/mEdpnorvwB.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_64/uV0amEM16T.png",
+      "type": "CLEAR_LOGO",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_64/duEus4e9Fc.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_64/EtsuEOsiNE.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    }
+  ]
+}

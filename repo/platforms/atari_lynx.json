@@ -1,0 +1,34 @@
+{
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_lynx/qit9V7FX1F.png",
+      "type": "BOX_ART",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_lynx/HMOF60zVmH.png",
+      "type": "BACKGROUND",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_lynx/FK58xXjH54.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_lynx/7Lye76vVir.png",
+      "type": "CLEAR_LOGO",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_lynx/pQzxNQPYKe.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atari_lynx/cB0sOVldZ4.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    }
+  ]
+}
