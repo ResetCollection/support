@@ -3,42 +3,42 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_saturn/RCQ3UIIbIP.png",
       "type": "BOX_ART",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_saturn/d7OrUHb7fK.png",
       "type": "BOX_ART",
-      "default": false
+      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_saturn/k2pih45P6B.png",
       "type": "BOX_ART",
-      "default": false
+      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_saturn/L2dwtKlJVO.png",
       "type": "BACKGROUND",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_saturn/xuFaMRYDJn.png",
       "type": "BACKGROUND",
-      "default": false
+      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_saturn/1PfnIpIvUT.png",
       "type": "CLEAR_LOGO",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_saturn/Cz5nuNIuHp.png",
       "type": "CLEAR_LOGO",
-      "default": false
+      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_saturn/TGwesoNJlD.png",
       "type": "CLEAR_LOGO",
-      "default": false
+      "pack": []
     }
   ]
 }

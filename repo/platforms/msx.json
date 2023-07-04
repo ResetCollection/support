@@ -3,37 +3,37 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/msx/CQhcDXk4Q4.png",
       "type": "BOX_ART",
-      "default": false
+      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/msx/TY6TP7uks1.png",
       "type": "BOX_ART",
-      "default": false
+      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/msx/2P0r2DCdoL.png",
       "type": "BOX_ART",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/msx/fU8uhSFyWY.png",
       "type": "BACKGROUND",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/msx/IOJ7jwtknV.png",
       "type": "BACKGROUND",
-      "default": false
+      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/msx/n5JgPsIRAE.png",
       "type": "CLEAR_LOGO",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/msx/JwHC4dnhK5.png",
       "type": "CLEAR_LOGO",
-      "default": false
+      "pack": []
     }
   ]
 }

@@ -3,32 +3,32 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/d1KLT834VL.png",
       "type": "BOX_ART",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/t5X27rLgUq.png",
       "type": "BACKGROUND",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/VWCAAI6wpR.png",
       "type": "BACKGROUND",
-      "default": false
+      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/UDjFzQd0Kr.png",
       "type": "CLEAR_LOGO",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/12fXzR1xIP.png",
       "type": "CLEAR_LOGO",
-      "default": false
+      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/UYFFCvql4e.png",
       "type": "CLEAR_LOGO",
-      "default": false
+      "pack": []
     }
   ]
 }

@@ -3,27 +3,27 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/vjKL00mLBv.png",
       "type": "BOX_ART",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/9Tbc5nMOwb.png",
       "type": "BACKGROUND",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/4diaoJtT9N.png",
       "type": "BACKGROUND",
-      "default": false
+      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/qm3Ki6ffq5.png",
       "type": "CLEAR_LOGO",
-      "default": true
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/cDyjwupY46.png",
       "type": "CLEAR_LOGO",
-      "default": false
+      "pack": []
     }
   ]
 }
