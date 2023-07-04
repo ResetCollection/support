@@ -1,0 +1,49 @@
+{
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii/qnCREN7iE2.png",
+      "type": "BOX_ART",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii/xPjbC83UWw.png",
+      "type": "BOX_ART",
+      "default": false
+    },,
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii/YjonZkG7iJ.png",
+      "type": "BOX_ART",
+      "default": false
+    },,
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii/FlKrwgnJSy.png",
+      "type": "BOX_ART",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii/nZkBj4yCwB.png",
+      "type": "BACKGROUND",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii/HScHtJIWgL.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii/vIzwqqRP7p.png",
+      "type": "CLEAR_LOGO",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii/Vq0gAQVeK4.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii/PEktDI7nA7.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    }
+  ]
+}

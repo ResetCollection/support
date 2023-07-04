@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/WkHggiTeHW.png",
+      "type": "BOX_ART",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/CsqqtF3QrZ.png",
+      "type": "BOX_ART",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/i9KINRvA0L.png",
+      "type": "BACKGROUND",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/4YflZzyhV8.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/XuBNLlBQBa.png",
+      "type": "CLEAR_LOGO",
+      "default": true
+    }
+  ]
+}

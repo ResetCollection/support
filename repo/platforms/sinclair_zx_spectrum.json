@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sinclair_zx_spectrum/UmI2l3l3Xm.png",
+      "type": "BOX_ART",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sinclair_zx_spectrum/bE4r525xT0.png",
+      "type": "BACKGROUND",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sinclair_zx_spectrum/rccEC5LsBY.png",
+      "type": "BACKGROUND",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sinclair_zx_spectrum/gkgZxgUw45.png",
+      "type": "CLEAR_LOGO",
+      "default": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sinclair_zx_spectrum/cj62HK3IQ5.png",
+      "type": "CLEAR_LOGO",
+      "default": false
+    }
+  ]
+}
