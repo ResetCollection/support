@@ -1,3 +1,49 @@
 {
-  "images": []
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_box_art_01.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_box_art_02.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_box_art_03.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_backdrop_01.png",
+      "type": "BACKGROUND",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_backdrop_02.png",
+      "type": "BACKGROUND",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_logo_01.png",
+      "type": "CLEAR_LOGO",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_logo_02.png",
+      "type": "CLEAR_LOGO",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_logo_03.png",
+      "type": "CLEAR_LOGO",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_logo_04.png",
+      "type": "CLEAR_LOGO",
+      "pack": []
+    }
+  ]
 }
