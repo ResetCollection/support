@@ -1,0 +1,39 @@
+{
+  "images": [
+    {
+      "url": "",
+      "type": "BOX_ART",
+      "pack": [1]
+    },
+    {
+      "url": "",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "",
+      "type": "BACKGROUND",
+      "pack": [1]
+    },
+    {
+      "url": "",
+      "type": "BACKGROUND",
+      "pack": []
+    },
+    {
+      "url": "",
+      "type": "CLEAR_LOGO",
+      "pack": [1]
+    },
+    {
+      "url": "",
+      "type": "CLEAR_LOGO",
+      "pack": []
+    },
+    {
+      "url": "",
+      "type": "CLEAR_LOGO",
+      "pack": []
+    }
+  ]
+}
