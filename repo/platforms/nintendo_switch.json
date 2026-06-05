@@ -1,37 +1,177 @@
 {
   "images": [
     {
-      "url": "",
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_05.png",
       "type": "BOX_ART",
       "pack": [1]
     },
     {
-      "url": "",
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_cart_01.png",
       "type": "BOX_ART",
       "pack": []
     },
     {
-      "url": "",
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_cart_02.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_controller_colorjoy.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_controller_gray.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_handheld_v4.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_01.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_02.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_03.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_04.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_06.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_07.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_08.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_09.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_10.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_11.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_12.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_13.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_14.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_15.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_16.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_17.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_18.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_19.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_20.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_21.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_22.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_23.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_24.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_boxart_system_25.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_backdrop_v1.png",
       "type": "BACKGROUND",
       "pack": [1]
     },
     {
-      "url": "",
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_backdrop_01.png",
       "type": "BACKGROUND",
       "pack": []
     },
     {
-      "url": "",
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_backdrop_v2.png",
+      "type": "BACKGROUND",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_logo_01.png",
       "type": "CLEAR_LOGO",
       "pack": [1]
     },
     {
-      "url": "",
-      "type": "CLEAR_LOGO",
-      "pack": []
-    },
-    {
-      "url": "",
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_switch/switch_logo_02.png",
       "type": "CLEAR_LOGO",
       "pack": []
     }
