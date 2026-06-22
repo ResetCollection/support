@@ -46,19 +46,9 @@
       "pack": []
     },
     {
-      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii_u/switch_backdrop_v1.png",
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii_u/wiiu_backdrop_v1.png",
       "type": "BACKGROUND",
       "pack": [1]
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii_u/switch_backdrop_01.png",
-      "type": "BACKGROUND",
-      "pack": []
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii_u/switch_backdrop_v2.png",
-      "type": "BACKGROUND",
-      "pack": []
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_wii_u/wii_u_logo_01.png",
