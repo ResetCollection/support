@@ -1,31 +1,31 @@
 {
-  "revision": "2026-06-05-001",
-  "generatedAt": "2026-06-05T22:36:02Z",
+  "revision": "2026-06-23-001",
+  "generatedAt": "2026-06-23T18:25:07Z",
   "files": [
     {
       "name": "games.zip",
-      "size": 52438996,
-      "sha256": "c5199005e2667d3f9e2c135c2b8dd33a722976766f39d4638dd19d9ffb6a8e21"
+      "size": 52780429,
+      "sha256": "15d29f5dd5a4d38c8167eb7bd53a78ee301a4657975fe7e5df79def4d59c5984"
     },
     {
       "name": "platforms.zip",
-      "size": 67867,
-      "sha256": "79b33d7a0a04ecfe1380962e1261f054b7464fdb91920bb3b7c26a109e7d1d6c"
+      "size": 67916,
+      "sha256": "9363a79626a2efe4e8bb10054f0f0ed0cfa9bec5bf397eef1b09488968db8448"
     },
     {
       "name": "images.zip",
-      "size": 45294999,
-      "sha256": "19690c7c33252ab2121873156b907565286f0d0f2c05b63d0d57b88b998eeceb"
+      "size": 45610313,
+      "sha256": "4569a92f87ce3b93749054903815b7d2f6af14be355b2fc2b8b7b4672d621ee6"
     },
     {
       "name": "mame.zip",
       "size": 1223393,
-      "sha256": "cf1a3c0e0611e954beee35709e1d27e2c4cfa98d4d6baeaeae2e295df5d1e115"
+      "sha256": "72674e573d998d8c75f307fa55011ccc0a1f64bde422f8317035dc1c91d9f150"
     },
     {
       "name": "game_alternatives.zip",
-      "size": 1202884,
-      "sha256": "5616900eb6d61a150775a849209a0ea305ba8c604b2d8782394e91f33bda9af4"
+      "size": 1225052,
+      "sha256": "63fb9a28fac9620500787f1383c671dec9b65d219877fea5b822c6d37c76c39a"
     }
   ]
 }
