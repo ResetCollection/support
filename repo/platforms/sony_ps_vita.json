@@ -1,0 +1,59 @@
+{
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_boxart_system_01.png",
+      "type": "BOX_ART",
+      "pack": [1]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_boxart_system_02.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_boxart_system_03.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_boxart_system_04.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_boxart_system_05.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_boxart_cartridge_01.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_boxart_cartridge_02.png",
+      "type": "BOX_ART",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_backdrop_01.png",
+      "type": "BACKGROUND",
+      "pack": [1]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_backdrop_02.png",
+      "type": "BACKGROUND",
+      "pack": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_logo_01.png",
+      "type": "CLEAR_LOGO",
+      "pack": [1]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps_vita/sony_ps_vita_logo_02.png",
+      "type": "CLEAR_LOGO",
+      "pack": []
+    }
+  ]
+}
