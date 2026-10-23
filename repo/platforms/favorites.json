@@ -13,12 +13,12 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_box_art_03.png",
       "type": "BOX_ART",
-      "pack": []
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_backdrop_01.png",
       "type": "BACKGROUND",
-      "pack": []
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_backdrop_02.png",
@@ -38,7 +38,7 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_logo_03.png",
       "type": "CLEAR_LOGO",
-      "pack": []
+      "pack": [1]
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/refs/heads/master/res/media/images/platforms/favorites/favorites_logo_04.png",
