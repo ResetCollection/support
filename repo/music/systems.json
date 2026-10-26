@@ -1,0 +1,1077 @@
+{
+  "schema": 1,
+  "base_url": "https://media.resetcollection.com/music/v1/",
+  "systems": [
+    {
+      "platform_id": 1,
+      "tracks": [
+        {
+          "file": "1-d0b7d5a173b0.ogg",
+          "bytes": 1505007,
+          "sha256": "41023bcdca4aaf12b237d69fcab0f8e1db20060fcf85157900d626c6aee5e760",
+          "duration_s": 105.46,
+          "title": "Finding the Groove",
+          "creator": "Aaron Lee",
+          "license": "CC BY 4.0",
+          "credit": "Music by Aaron Lee",
+          "credit_required": true,
+          "source_url": "https://musicoflee.itch.io/chiptune-collection-1"
+        }
+      ]
+    },
+    {
+      "platform_id": 2,
+      "tracks": [
+        {
+          "file": "2-1e8cfeabcdb6.ogg",
+          "bytes": 688685,
+          "sha256": "4ddf1112a66b677057bbb566c4cb1ce64cb06720da2b40e273154cd516562ff7",
+          "duration_s": 44.02,
+          "title": "Sketchbook 2025-12-03",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 3,
+      "tracks": [
+        {
+          "file": "3-8a982a52f772.ogg",
+          "bytes": 1076830,
+          "sha256": "435e68fb68bea27a361ca3627aff42c4253b0e7a179b56b08af8d64969f4dd59",
+          "duration_s": 69.82,
+          "title": "Mushroom Tribe",
+          "creator": "Mulula VGM Loops (LovacBeats)",
+          "license": "CC BY 4.0",
+          "credit": "Music by Mulula VGM Loops",
+          "credit_required": true,
+          "source_url": "https://mululavgmloops.itch.io/super-music-64-vol-3"
+        }
+      ]
+    },
+    {
+      "platform_id": 4,
+      "tracks": [
+        {
+          "file": "4-b4951e31ef53.ogg",
+          "bytes": 1538079,
+          "sha256": "330c9d8436d64ff55ffcec6bb593309db64c974d3a2dd3526f35cf6918477678",
+          "duration_s": 108.8,
+          "title": "Thank You",
+          "creator": "jomusic (John Oestmann)",
+          "license": "CC0",
+          "credit": "\"06-thankyou\" by jomusic (John Oestmann) (CC0) - https://opengameart.org/content/minimalworldsii-game-boy-style-album",
+          "credit_required": false,
+          "source_url": "https://opengameart.org/content/minimalworldsii-game-boy-style-album"
+        }
+      ]
+    },
+    {
+      "platform_id": 5,
+      "tracks": [
+        {
+          "file": "5-7c4cb0a56a98.ogg",
+          "bytes": 312083,
+          "sha256": "7de1b91b12bb09d09ba01e434201815ce55b582c9a628272a08d48f395837071",
+          "duration_s": 20.87,
+          "title": "Week 28 - Batteries Not Included AA",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 6,
+      "tracks": [
+        {
+          "file": "6-fb4f6ca2c769.ogg",
+          "bytes": 1120017,
+          "sha256": "afc4f9dcb62328d7e9afd7c5a57789f375de24167443a4d78242d23f1dc1bbe8",
+          "duration_s": 69.82,
+          "title": "Sketchbook 2025-11-12",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 7,
+      "tracks": [
+        {
+          "file": "7-69fa570bdf0f.ogg",
+          "bytes": 735726,
+          "sha256": "16a9e305be72076e5e45185761e394e187add58753112e947ea3186222c9ef68",
+          "duration_s": 53.33,
+          "title": "Three Red Hearts Pixel War 2",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 8,
+      "tracks": [
+        {
+          "file": "8-8f869f5a99c4.ogg",
+          "bytes": 527160,
+          "sha256": "2b4cb0406edcfd21b895ff3474df6b23a8fbc11e68f3a1da8e0c251901e3c322",
+          "duration_s": 38.4,
+          "title": "Sketchbook 2024-06-05 01",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 9,
+      "tracks": [
+        {
+          "file": "9-fe99a897082c.ogg",
+          "bytes": 244026,
+          "sha256": "a1b0f56f1530132b5442f6eb0ca5f6d1c6a0ac189af2e9eafa181a32741cfc3a",
+          "duration_s": 15.0,
+          "title": "VGMA Challenge 09",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 10,
+      "tracks": [
+        {
+          "file": "10-bec652e0a612.ogg",
+          "bytes": 865301,
+          "sha256": "604e6330332d00983d4c3826db8afaac40611730f5d899e7abdec5378bf845a1",
+          "duration_s": 56.47,
+          "title": "Sketchbook 2024-08-07",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 11,
+      "tracks": [
+        {
+          "file": "11-2afbe91476ee.ogg",
+          "bytes": 1109658,
+          "sha256": "f9db56f823039b7cef21b7b9ca55a48cfe65b04d797c7066da13d869c3b955b3",
+          "duration_s": 78.9,
+          "title": "Sketchbook 2024-06-26",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 12,
+      "tracks": [
+        {
+          "file": "12-1f4dcd07b899.ogg",
+          "bytes": 1179803,
+          "sha256": "fe5929aface26f758c507433392ef1f7ded9ee6c10a9b20c458ca8e89aa13841",
+          "duration_s": 75.01,
+          "title": "Technotronic",
+          "creator": "Eric Matyas",
+          "license": "CC BY 3.0",
+          "credit": "\"Technotronic\" by Eric Matyas www.soundimage.org",
+          "credit_required": true,
+          "source_url": "https://opengameart.org/content/technotronic-looping"
+        }
+      ]
+    },
+    {
+      "platform_id": 13,
+      "tracks": [
+        {
+          "file": "13-bbc1f6743927.ogg",
+          "bytes": 813060,
+          "sha256": "e6697ad93c3d2a593806cc6df0b14bb02a739db083f12f9b406d0f0425d53574",
+          "duration_s": 50.09,
+          "title": "Week 38 - Shimmer SPARKLE",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 14,
+      "tracks": [
+        {
+          "file": "14-f3d7ef33458a.ogg",
+          "bytes": 624563,
+          "sha256": "3df50de40b08749639849860519442066a4a7d5fdf1344ccfe51cfea747ca434",
+          "duration_s": 39.27,
+          "title": "Sketchbook 2024-12-05",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 15,
+      "tracks": [
+        {
+          "file": "15-d4b7e337d6ad.ogg",
+          "bytes": 941547,
+          "sha256": "2b875ec8441d48b2215f21961828733b06e5b3230da2e25c08883799db43ba44",
+          "duration_s": 62.44,
+          "title": "Patreon Challenge 08",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 16,
+      "tracks": [
+        {
+          "file": "16-4edb61f45ec7.ogg",
+          "bytes": 528335,
+          "sha256": "1df5f7caa4511da0c1accca733a16e84e33a296c08a306dda626bbfed45174c4",
+          "duration_s": 36.48,
+          "title": "Sketchbook 2024-10-14",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 17,
+      "tracks": [
+        {
+          "file": "17-a69b46347972.ogg",
+          "bytes": 271448,
+          "sha256": "0a2aba27d3b5dfb08a31b013f6c39e3f11bb23b7b329e3571aa22d69797b8838",
+          "duration_s": 16.0,
+          "title": "VGMA Challenge 04",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 18,
+      "tracks": [
+        {
+          "file": "18-b35294ee3119.ogg",
+          "bytes": 1740141,
+          "sha256": "9418ccd3c71afaf8e51e82329b63bd4d6b1e867c75c181a486fb4d30567523ff",
+          "duration_s": 115.38,
+          "title": "Sketchbook 2024-11-07",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 20,
+      "tracks": [
+        {
+          "file": "20-e26f883083eb.ogg",
+          "bytes": 803604,
+          "sha256": "a022f78640e43f80a77424b0120b97165d11f6ae017683adf1c92d8b6b7f11a0",
+          "duration_s": 60.0,
+          "title": "Gear",
+          "creator": "Mulula VGM Loops (LovacBeats)",
+          "license": "CC BY 4.0",
+          "credit": "Music by Mulula VGM Loops",
+          "credit_required": true,
+          "source_url": "https://mululavgmloops.itch.io/free-genesis-16-bit-music-vol-4"
+        }
+      ]
+    },
+    {
+      "platform_id": 21,
+      "tracks": [
+        {
+          "file": "21-4ddd2cc7fdc2.ogg",
+          "bytes": 1563235,
+          "sha256": "e76ee541b7be714d08041317c09dde83d00191e87a080a6ea19b8f327ec4688b",
+          "duration_s": 122.14,
+          "title": "Lost Spaceship's Signal",
+          "creator": "DavidKBD",
+          "license": "CC BY 4.0",
+          "credit": "Music by DavidKBD",
+          "credit_required": true,
+          "source_url": "https://davidkbd.itch.io/pink-bloom-synthwave-music-pack"
+        }
+      ]
+    },
+    {
+      "platform_id": 22,
+      "tracks": [
+        {
+          "file": "22-f9a56c8d9b6a.ogg",
+          "bytes": 593818,
+          "sha256": "b9eb0edf2fdcf008980b002f2cb9675e9abf6d31fa84cc2b374396d296bd1c48",
+          "duration_s": 44.31,
+          "title": "Exploration",
+          "creator": "Luis Zuno (ansimuz)",
+          "license": "ansimuz free license",
+          "credit": "Luis Zuno (@ansimuz)",
+          "credit_required": false,
+          "source_url": "https://ansimuz.itch.io/adventure-music-collection-pack-1"
+        }
+      ]
+    },
+    {
+      "platform_id": 23,
+      "tracks": [
+        {
+          "file": "23-955fb0fe7476.ogg",
+          "bytes": 1743626,
+          "sha256": "6da5d512842f0199910a8f43db6189a342700ad13de399c389b0fb0d9b0570e5",
+          "duration_s": 132.0,
+          "title": "HexaPuppies",
+          "creator": "DavidKBD",
+          "license": "CC BY 4.0",
+          "credit": "Music by DavidKBD",
+          "credit_required": true,
+          "source_url": "https://davidkbd.itch.io/hexapuppies-synthwave-music-pack"
+        }
+      ]
+    },
+    {
+      "platform_id": 24,
+      "tracks": [
+        {
+          "file": "24-7b4fed576e90.ogg",
+          "bytes": 805238,
+          "sha256": "328dc4aa1f10d646e108baa6b7e5c732a19436b95afdf140406699ed713f8c01",
+          "duration_s": 52.8,
+          "title": "Sketchbook 2024-11-29",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 25,
+      "tracks": [
+        {
+          "file": "25-fcd62f0b2c6f.ogg",
+          "bytes": 693908,
+          "sha256": "fb1d1ea8c56fb38b16232ca71a3e85df2498f47108d094b39136e09bbdc6d7b0",
+          "duration_s": 44.08,
+          "title": "Sketchbook 2025-11-19",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 26,
+      "tracks": [
+        {
+          "file": "26-66b0d585cfe1.ogg",
+          "bytes": 1078480,
+          "sha256": "4e9e333780366f608b4117582535c7b54433598b8f76b9d5183822653262b740",
+          "duration_s": 91.21,
+          "title": "Three Red Hearts Puzzle Pieces",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 27,
+      "tracks": [
+        {
+          "file": "27-fbb6c58b1f47.ogg",
+          "bytes": 963029,
+          "sha256": "af4037c52440f78b58dee634e6f6206ef946afe30b9791f99b659c2052d5cef8",
+          "duration_s": 66.46,
+          "title": "Fantasy Dragon",
+          "creator": "Luis Zuno (ansimuz)",
+          "license": "ansimuz free license",
+          "credit": "Luis Zuno (@ansimuz)",
+          "credit_required": false,
+          "source_url": "https://ansimuz.itch.io/adventure-music-collection-pack-1"
+        }
+      ]
+    },
+    {
+      "platform_id": 28,
+      "tracks": [
+        {
+          "file": "28-b3b20d8ae216.ogg",
+          "bytes": 994777,
+          "sha256": "67fb92ecd97f611f108a74a3e227a4dcaf8561ee0171f646ee90cb69d2e68417",
+          "duration_s": 60.63,
+          "title": "Sketchbook 2024-12-21",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 31,
+      "tracks": [
+        {
+          "file": "31-0436e3abf8f4.ogg",
+          "bytes": 3124471,
+          "sha256": "c710fc64742d93167917e5572733bce0634a4952c49f528d25464fb6fba7be17",
+          "duration_s": 164.62,
+          "title": "Space Main Theme",
+          "creator": "Kyra van Meijl (Kyra's Voice)",
+          "license": "CC BY 4.0",
+          "credit": "8-bit Space Music © 2024 by Kyra van Meijl is licensed under Creative Commons Attribution 4.0 International",
+          "credit_required": true,
+          "source_url": "https://kyrasvoice.itch.io/8-bit-space-music"
+        }
+      ]
+    },
+    {
+      "platform_id": 32,
+      "tracks": [
+        {
+          "file": "32-2cf799f5e178.ogg",
+          "bytes": 1137685,
+          "sha256": "33d8b360c3429066df47ea1a7a34cecea4c145b5969078f19f8dfe873880a086",
+          "duration_s": 89.61,
+          "title": "Three Red Hearts Princess Quest (No Boing)",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 33,
+      "tracks": [
+        {
+          "file": "33-a40915911a6c.ogg",
+          "bytes": 760844,
+          "sha256": "4cdb3dc0a766559687606927d9648ce36cc101002de53051ee8f14cb84d88ab9",
+          "duration_s": 48.0,
+          "title": "Sketchbook 2024-03-30 01 L02",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 34,
+      "tracks": [
+        {
+          "file": "34-5aca7415911c.ogg",
+          "bytes": 920977,
+          "sha256": "50e4a9df3f128e73e6ab660bf3f54e443ae8a432d62a8451b3402f478d5fc992",
+          "duration_s": 67.08,
+          "title": "6office",
+          "creator": "ognomo",
+          "license": "CC0",
+          "credit": "\"ognomo - 6office\" by ognomo (CC0) - https://ognomo.itch.io/magic-box-cute-royalty-free-music",
+          "credit_required": false,
+          "source_url": "https://ognomo.itch.io/magic-box-cute-royalty-free-music"
+        }
+      ]
+    },
+    {
+      "platform_id": 35,
+      "tracks": [
+        {
+          "file": "35-8c3d2a37d6c8.ogg",
+          "bytes": 947282,
+          "sha256": "2aa5148a652a415f058707baa1e8e4af951dd94d288440e467f0a791546519c2",
+          "duration_s": 59.08,
+          "title": "Arcade",
+          "creator": "Luis Zuno (ansimuz)",
+          "license": "ansimuz free license",
+          "credit": "Luis Zuno (@ansimuz)",
+          "credit_required": false,
+          "source_url": "https://ansimuz.itch.io/adventure-music-collection-pack-1"
+        }
+      ]
+    },
+    {
+      "platform_id": 38,
+      "tracks": [
+        {
+          "file": "38-6e1047827656.ogg",
+          "bytes": 659354,
+          "sha256": "78b085eea361067ca482cdf664003e743b15b448fc6a24747cbc30ef33a63dd9",
+          "duration_s": 45.18,
+          "title": "Sketchbook 2024-12-15",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 39,
+      "tracks": [
+        {
+          "file": "39-f8d18adf3764.ogg",
+          "bytes": 1080282,
+          "sha256": "89ba3e6c40fa99a5e5c5abe9d2e33d8446c054b4228293d56ce3cb5603bbcef2",
+          "duration_s": 67.5,
+          "title": "Sketchbook 2024-11-30",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 40,
+      "tracks": [
+        {
+          "file": "40-7bfafeb6e242.ogg",
+          "bytes": 389850,
+          "sha256": "f297bd193ef18218067db4614dc50b0ab6a5c7bcfa5ca9e1c4937974cb405a62",
+          "duration_s": 32.0,
+          "title": "Ludum Dare 38 09",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 41,
+      "tracks": [
+        {
+          "file": "41-62fe74ccb593.ogg",
+          "bytes": 322700,
+          "sha256": "da5698224c8b3d2b9c1e1a64129948a6917de18c950f0993b83dd3d149bf048f",
+          "duration_s": 22.74,
+          "title": "Week 29 - Heart-Shaped PALPATATIONS",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4911,
+      "tracks": [
+        {
+          "file": "4911-4acff88dd645.ogg",
+          "bytes": 373404,
+          "sha256": "de4159fd84d9372edb073e2481fff1524b1fbfeae35942113d790f89f1e474e5",
+          "duration_s": 24.0,
+          "title": "Week 1.1 - Super Retro Lounge",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4912,
+      "tracks": [
+        {
+          "file": "4912-091b91527783.ogg",
+          "bytes": 997797,
+          "sha256": "3d1132fd24a56243bb6af3e474252a06971afcd190df0330383a02ebe80b4e25",
+          "duration_s": 70.59,
+          "title": "Sketchbook 2025-11-26",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4913,
+      "tracks": [
+        {
+          "file": "4913-0254794395b7.ogg",
+          "bytes": 1842871,
+          "sha256": "f926dc9e47c896bf0c481eb45c85d1c780d7ae454c52ac4ced15b2e996146df2",
+          "duration_s": 128.16,
+          "title": "Three Red Hearts Modern Bits",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4914,
+      "tracks": [
+        {
+          "file": "4914-d2a2f94c860a.ogg",
+          "bytes": 935546,
+          "sha256": "24f97aa88b554a41a3585638a90bfe2a58a04712ae0eab05c10e98622b8929a8",
+          "duration_s": 55.05,
+          "title": "A Little Journey",
+          "creator": "shiru8bit",
+          "license": "CC BY 3.0",
+          "credit": "\"A Little Journey\" by shiru8bit (CC BY 3.0)",
+          "credit_required": true,
+          "source_url": "https://opengameart.org/content/8-bit-chiptune-a-little-journey"
+        }
+      ]
+    },
+    {
+      "platform_id": 4916,
+      "tracks": [
+        {
+          "file": "4916-1d25daf249f2.ogg",
+          "bytes": 459347,
+          "sha256": "f63263203f910ac1b3ba5a891034f88676fd0bb981f9c4b60b087daad8a7f0d8",
+          "duration_s": 27.43,
+          "title": "Week 20.1 - Magnetic Tape SCUFFED",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4918,
+      "tracks": [
+        {
+          "file": "4918-3b763bfb7bac.ogg",
+          "bytes": 657178,
+          "sha256": "77f2570714bbd8a31f8a7cf7c139647b939f6a2376841f5ba9d4b51de38d4609",
+          "duration_s": 43.64,
+          "title": "Sketchbook 2024-05-01 02",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4922,
+      "tracks": [
+        {
+          "file": "4922-428b0aa002a4.ogg",
+          "bytes": 699939,
+          "sha256": "9662beaebba0a1f561ef4dd51896f9009589541f754dcef3672d7f98e59269ff",
+          "duration_s": 45.0,
+          "title": "Sketchbook 2024-08-01 EXTENDED",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4923,
+      "tracks": [
+        {
+          "file": "4923-e6053969c681.ogg",
+          "bytes": 272686,
+          "sha256": "b3b9fd8cb2eca8274ea47c31606a3503840a299bcdbabcc75426e30e67ae0326",
+          "duration_s": 16.99,
+          "title": "Week 17 - Alley Cat DUMPSTER PARTY",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4924,
+      "tracks": [
+        {
+          "file": "4924-581eebd67e6e.ogg",
+          "bytes": 537384,
+          "sha256": "402562c1d9fdf93f99604c3f57474f2f9c3931578cc7c58be5d50366133606ff",
+          "duration_s": 40.51,
+          "title": "Arcade Title",
+          "creator": "wyver9",
+          "license": "CC BY-SA 3.0",
+          "credit": "\"Arcade Title\" by @wyver9 (CC BY-SA 3.0), edited (trimmed, loudness-adjusted); this version is CC BY-SA 3.0",
+          "credit_required": true,
+          "source_url": "https://opengameart.org/content/arcade-title-8-bit-chiptune"
+        }
+      ]
+    },
+    {
+      "platform_id": 4925,
+      "tracks": [
+        {
+          "file": "4925-fb11c1fcc38d.ogg",
+          "bytes": 186974,
+          "sha256": "2a71747a199a9288e4e13da174d51cd87d354827d10bda737fbbdb2b898e2e85",
+          "duration_s": 10.91,
+          "title": "Week 15 - Sunburn SPF 3000",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4926,
+      "tracks": [
+        {
+          "file": "4926-eb9582f99753.ogg",
+          "bytes": 898995,
+          "sha256": "fd5173ec75d84525fc2ae08de793d5a410b0e561735b818713c30567601ddec8",
+          "duration_s": 64.0,
+          "title": "Sketchbook 2024-12-26",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4927,
+      "tracks": [
+        {
+          "file": "4927-4862f5d17ac7.ogg",
+          "bytes": 363324,
+          "sha256": "5beb49a4b9d9ddc6ebbd77047a97677709e003669845d4abf0e2676ffd9de1cc",
+          "duration_s": 25.26,
+          "title": "Week 29 - Heart-Shaped CANDY",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4929,
+      "tracks": [
+        {
+          "file": "4929-77e03f296a91.ogg",
+          "bytes": 3419954,
+          "sha256": "e2d431cd9958bfb099f32040595a46d8e530a9f68b1a5cdc5be9c31fac664e2a",
+          "duration_s": 224.0,
+          "title": "Sketchbook 2025-11-13",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4930,
+      "tracks": [
+        {
+          "file": "4930-9fd461079c93.ogg",
+          "bytes": 718142,
+          "sha256": "a61df526e1a508415d0449a12b96a19e408ae56257253b423929f5a15009fed0",
+          "duration_s": 50.09,
+          "title": "Sketchbook 2024-05-22",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4931,
+      "tracks": [
+        {
+          "file": "4931-498fc639fb8f.ogg",
+          "bytes": 515035,
+          "sha256": "85ec69ecff99700a9df6087daaeb0a3dcf0d13cdea13082de14ab643e5f85b48",
+          "duration_s": 30.0,
+          "title": "VGMA Challenge 29",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4937,
+      "tracks": [
+        {
+          "file": "4937-c201b8bac2b8.ogg",
+          "bytes": 1035816,
+          "sha256": "a96587c88d2fe78852e9baf6a0158a5249e088354e1ae0fe9ac4002337ac9df9",
+          "duration_s": 88.62,
+          "title": "Tangle",
+          "creator": "Arkeia",
+          "license": "CC BY 4.0",
+          "credit": "Contains music ©2026 Arkeia (https://arkeiamusic.itch.io/) Licensed under Creative Commons Attribution 4.0 International",
+          "credit_required": true,
+          "source_url": "https://seciden.itch.io/music-pack-13"
+        }
+      ]
+    },
+    {
+      "platform_id": 4939,
+      "tracks": [
+        {
+          "file": "4939-a60426cf1cca.ogg",
+          "bytes": 476460,
+          "sha256": "94764dfdd850fa07dcddd7d6ed233cc8ad7ddadd03f609df32316148ea2c6dcf",
+          "duration_s": 38.2,
+          "title": "Overworld Select",
+          "creator": "Ted Kerr (Wolfgang_)",
+          "license": "CC BY 4.0",
+          "credit": "\"Overworld Select\" by Ted Kerr (CC BY 4.0)",
+          "credit_required": true,
+          "source_url": "https://opengameart.org/content/overworld-select-8-bit-gameboy-track"
+        }
+      ]
+    },
+    {
+      "platform_id": 4947,
+      "tracks": [
+        {
+          "file": "4947-0458f392c611.ogg",
+          "bytes": 790993,
+          "sha256": "c58e7f2a1affcc76a6b96fb2f941426bd96e39426fa20ceadee6cbfaafcf3b37",
+          "duration_s": 59.61,
+          "title": "8bit Bossa",
+          "creator": "Joth",
+          "license": "CC0",
+          "credit": "\"8bit Bossa\" by Joth (CC0) - https://opengameart.org/content/bossa-nova",
+          "credit_required": false,
+          "source_url": "https://opengameart.org/content/bossa-nova"
+        }
+      ]
+    },
+    {
+      "platform_id": 4949,
+      "tracks": [
+        {
+          "file": "4949-91d52bf237f4.ogg",
+          "bytes": 801629,
+          "sha256": "00a57151c8b36f139c6008239022fbca946979b0f34f184647216ad3e9528f0a",
+          "duration_s": 60.09,
+          "title": "Upbeat Overworld",
+          "creator": "Ted Kerr (Wolfgang_)",
+          "license": "CC0",
+          "credit": "\"upbeatoverworld\" by Wolfgang_ (CC0) - https://opengameart.org/content/8bit-theme-upbeat-overworld",
+          "credit_required": false,
+          "source_url": "https://opengameart.org/content/8bit-theme-upbeat-overworld"
+        }
+      ]
+    },
+    {
+      "platform_id": 4950,
+      "tracks": [
+        {
+          "file": "4950-f6f13abf4755.ogg",
+          "bytes": 530779,
+          "sha256": "e916f49ef4e9be7af9c4259c33b2a4f92d6cb6c49ee425f732180748847c14d0",
+          "duration_s": 36.0,
+          "title": "Patreon Challenge 12",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4955,
+      "tracks": [
+        {
+          "file": "4955-c29ae30613b6.ogg",
+          "bytes": 1042926,
+          "sha256": "c0f92ed2020e4c1f1933d365df9a850fcd36bcc4bdbbe80b64b5d15572d72dcb",
+          "duration_s": 59.08,
+          "title": "Outrunner",
+          "creator": "Luis Zuno (ansimuz)",
+          "license": "ansimuz free license",
+          "credit": "Luis Zuno (@ansimuz)",
+          "credit_required": false,
+          "source_url": "https://ansimuz.itch.io/action-music-pack-2"
+        }
+      ]
+    },
+    {
+      "platform_id": 4956,
+      "tracks": [
+        {
+          "file": "4956-d8f9c1d0d822.ogg",
+          "bytes": 1761040,
+          "sha256": "029260b2b2519d6d6f2d11e0055b22cc9aa65a96d82f083eb1ad5d28f533a5d3",
+          "duration_s": 103.4,
+          "title": "Happy Walking",
+          "creator": "Luis Zuno (ansimuz)",
+          "license": "ansimuz free license",
+          "credit": "Luis Zuno (@ansimuz)",
+          "credit_required": false,
+          "source_url": "https://ansimuz.itch.io/adventure-music-collection-pack-1"
+        }
+      ]
+    },
+    {
+      "platform_id": 4957,
+      "tracks": [
+        {
+          "file": "4957-953a20d7e2e6.ogg",
+          "bytes": 391670,
+          "sha256": "a75fc6b3b1e922a07b7953504fe5a338341d6d66d37cda5c2092f9fd1ca7e8f3",
+          "duration_s": 21.82,
+          "title": "Week 15 - Sunburn BEACH HOUSE",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Optional",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 4971,
+      "tracks": [
+        {
+          "file": "4971-512f32f3dbbe.ogg",
+          "bytes": 966715,
+          "sha256": "10251158ee32ab48ad1c48304aae0f46befd01afbe698d38950de46e724df1cc",
+          "duration_s": 75.79,
+          "title": "Sketchbook 2024-11-20",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 9996,
+      "tracks": [
+        {
+          "file": "9996-73bfe56e318f.ogg",
+          "bytes": 329473,
+          "sha256": "9d312dccaec22ef158a4f00a888acec90944c58028725e3d7739614ed5bfb29a",
+          "duration_s": 24.3,
+          "title": "Week 18 - Distant Skyline NIGHT DRIVE",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 9997,
+      "tracks": [
+        {
+          "file": "9997-14141533d9b2.ogg",
+          "bytes": 982983,
+          "sha256": "90f460c9225a25320506df7460e0a2e2150713ee954c38a6e54d81c967b0a7f7",
+          "duration_s": 60.0,
+          "title": "Sketchbook 2024-10-23",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    },
+    {
+      "platform_id": 9999,
+      "tracks": [
+        {
+          "file": "9999-ab4847b1025a.ogg",
+          "bytes": 773062,
+          "sha256": "6c6f268f95c2a23616f563a457a48409954acc278d1d715812d32e1fff91044e",
+          "duration_s": 53.54,
+          "title": "Sketchbook 2024-10-30",
+          "creator": "Abstraction (Tallbeard Studios)",
+          "license": "CC0",
+          "credit": "Abstraction (abstractionmusic.com)",
+          "credit_required": false,
+          "source_url": "https://tallbeard.itch.io/music-loop-bundle"
+        }
+      ]
+    }
+  ]
+}
