@@ -3,42 +3,62 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps2/PUHhn1JZhr.png",
       "type": "BOX_ART",
-      "pack": [1]
+      "pack": [1],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps2/PmnBMX6xUn.png",
       "type": "BOX_ART",
-      "pack": []
+      "pack": [],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps2/KmYJ1BJ3ek.png",
       "type": "BOX_ART",
-      "pack": []
+      "pack": [],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps2/AE2iZHQt1E.png",
       "type": "BACKGROUND",
-      "pack": [1]
+      "pack": [],
+      "ratio": "4:3"
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps2/ZH7Nt2TcPP.png",
       "type": "BACKGROUND",
-      "pack": []
+      "pack": [],
+      "ratio": "16:9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps2/sony_ps2_backdrop_bgc_43.png",
+      "type": "BACKGROUND",
+      "pack": [1],
+      "ratio": "4:3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps2/sony_ps2_backdrop_bgc_169.png",
+      "type": "BACKGROUND",
+      "pack": [1],
+      "ratio": "16:9"
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps2/6QdZH17X4z.png",
       "type": "CLEAR_LOGO",
-      "pack": [1]
+      "pack": [1],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps2/QvEypAt61f.png",
       "type": "CLEAR_LOGO",
-      "pack": []
+      "pack": [],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sony_ps2/E15lLuq5wX.png",
       "type": "CLEAR_LOGO",
-      "pack": []
+      "pack": [],
+      "ratio": null
     }
   ]
 }

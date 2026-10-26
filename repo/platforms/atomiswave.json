@@ -3,27 +3,44 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/vjKL00mLBv.png",
       "type": "BOX_ART",
-      "pack": [1]
+      "pack": [1],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/9Tbc5nMOwb.png",
       "type": "BACKGROUND",
-      "pack": [1]
+      "pack": [],
+      "ratio": "4:3"
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/4diaoJtT9N.png",
       "type": "BACKGROUND",
-      "pack": []
+      "pack": [],
+      "ratio": "16:9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/atomiswave_backdrop_bgc_43.png",
+      "type": "BACKGROUND",
+      "pack": [1],
+      "ratio": "4:3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/atomiswave_backdrop_bgc_169.png",
+      "type": "BACKGROUND",
+      "pack": [1],
+      "ratio": "16:9"
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/qm3Ki6ffq5.png",
       "type": "CLEAR_LOGO",
-      "pack": [1]
+      "pack": [1],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/atomiswave/cDyjwupY46.png",
       "type": "CLEAR_LOGO",
-      "pack": []
+      "pack": [],
+      "ratio": null
     }
   ]
 }

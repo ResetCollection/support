@@ -3,32 +3,50 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/d1KLT834VL.png",
       "type": "BOX_ART",
-      "pack": [1]
+      "pack": [1],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/t5X27rLgUq.png",
       "type": "BACKGROUND",
-      "pack": [1]
+      "pack": [],
+      "ratio": "4:3"
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/VWCAAI6wpR.png",
       "type": "BACKGROUND",
-      "pack": []
+      "pack": [],
+      "ratio": "16:9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/game_n_watch_backdrop_bgc_43.png",
+      "type": "BACKGROUND",
+      "pack": [1],
+      "ratio": "4:3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/game_n_watch_backdrop_bgc_169.png",
+      "type": "BACKGROUND",
+      "pack": [1],
+      "ratio": "16:9"
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/UDjFzQd0Kr.png",
       "type": "CLEAR_LOGO",
-      "pack": [1]
+      "pack": [1],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/12fXzR1xIP.png",
       "type": "CLEAR_LOGO",
-      "pack": []
+      "pack": [],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/game_n_watch/UYFFCvql4e.png",
       "type": "CLEAR_LOGO",
-      "pack": []
+      "pack": [],
+      "ratio": null
     }
   ]
 }

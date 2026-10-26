@@ -3,27 +3,44 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/WkHggiTeHW.png",
       "type": "BOX_ART",
-      "pack": [1]
+      "pack": [1],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/CsqqtF3QrZ.png",
       "type": "BOX_ART",
-      "pack": []
+      "pack": [],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/i9KINRvA0L.png",
       "type": "BACKGROUND",
-      "pack": [1]
+      "pack": [],
+      "ratio": "4:3"
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/4YflZzyhV8.png",
       "type": "BACKGROUND",
-      "pack": []
+      "pack": [],
+      "ratio": "16:9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/nintendo_virtual_boy_backdrop_bgc_43.png",
+      "type": "BACKGROUND",
+      "pack": [1],
+      "ratio": "4:3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/nintendo_virtual_boy_backdrop_bgc_169.png",
+      "type": "BACKGROUND",
+      "pack": [1],
+      "ratio": "16:9"
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/nintendo_virtual_boy/XuBNLlBQBa.png",
       "type": "CLEAR_LOGO",
-      "pack": [1]
+      "pack": [1],
+      "ratio": null
     }
   ]
 }

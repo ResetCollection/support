@@ -3,32 +3,50 @@
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_32x/wAXmWrDV3V.png",
       "type": "BOX_ART",
-      "pack": [1]
+      "pack": [1],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_32x/NPemC2Z9e5.png",
       "type": "BOX_ART",
-      "pack": []
+      "pack": [],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_32x/NMe7h8J75t.png",
       "type": "BOX_ART",
-      "pack": []
+      "pack": [],
+      "ratio": null
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_32x/BWK4dyvp4D.png",
       "type": "BACKGROUND",
-      "pack": [1]
+      "pack": [],
+      "ratio": "4:3"
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_32x/LBWRJO42kF.png",
       "type": "BACKGROUND",
-      "pack": []
+      "pack": [],
+      "ratio": "16:9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_32x/sega_32x_backdrop_bgc_43.png",
+      "type": "BACKGROUND",
+      "pack": [1],
+      "ratio": "4:3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_32x/sega_32x_backdrop_bgc_169.png",
+      "type": "BACKGROUND",
+      "pack": [1],
+      "ratio": "16:9"
     },
     {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/sega_32x/GSEmBjkcqO.png",
       "type": "CLEAR_LOGO",
-      "pack": [1]
+      "pack": [1],
+      "ratio": null
     }
   ]
 }
