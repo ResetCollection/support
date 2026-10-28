@@ -1,6 +1,24 @@
 {
   "images": [
     {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/dos/dos_boxart_system_01.png",
+      "type": "BOX_ART",
+      "pack": [1],
+      "ratio": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/dos/dos_boxart_system_02.png",
+      "type": "BOX_ART",
+      "pack": [],
+      "ratio": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/dos/dos_boxart_floppy_01.png",
+      "type": "BOX_ART",
+      "pack": [],
+      "ratio": null
+    },
+    {
       "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/dos/dos_backdrop_bgc_43.png",
       "type": "BACKGROUND",
       "pack": [1],
@@ -11,6 +29,42 @@
       "type": "BACKGROUND",
       "pack": [1],
       "ratio": "16:9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/dos/dos_logo_01.png",
+      "type": "CLEAR_LOGO",
+      "pack": [1],
+      "ratio": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/dos/dos_logo_02.png",
+      "type": "CLEAR_LOGO",
+      "pack": [],
+      "ratio": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/dos/dos_logo_03.png",
+      "type": "CLEAR_LOGO",
+      "pack": [],
+      "ratio": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/dos/dos_logo_04.png",
+      "type": "CLEAR_LOGO",
+      "pack": [],
+      "ratio": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/dos/dos_logo_05.png",
+      "type": "CLEAR_LOGO",
+      "pack": [],
+      "ratio": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ResetCollection/support/master/res/media/images/platforms/dos/dos_logo_06.png",
+      "type": "CLEAR_LOGO",
+      "pack": [],
+      "ratio": null
     }
   ]
 }
