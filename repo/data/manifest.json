@@ -1,36 +1,37 @@
 {
-  "revision": "2026-09-02-001",
-  "generatedAt": "2026-09-03T03:06:10Z",
+  "revision": "2026-11-01-002",
+  "generatedAt": "2026-11-02T03:05:49Z",
   "files": [
     {
       "name": "games.zip",
-      "size": 54101614,
-      "sha256": "02db1e91d9ed0b393d915485d701eb6f5a60e16d5eeb29e3fe9269c81325e731",
-      "rows": 187816
+      "size": 54790885,
+      "sha256": "1b7b8ff046bc85798dd4f7e99a45f5db21f4d8e6611e4f02cd7d7ba53d5111cc",
+      "rows": 190165
     },
     {
       "name": "platforms.zip",
-      "size": 68109,
-      "sha256": "52d924a2c9053bd8658d433fa09a40528448c0dd8e889b7a147f327650b367d5",
+      "size": 68877,
+      "sha256": "20508fb3dec7de5589be6285ba7a4b4d9c7862dd3e673a7ed8b0265a9dee3efb",
       "rows": 190
     },
     {
       "name": "images.zip",
-      "size": 46802628,
-      "sha256": "2e159aa32ce7c1361acc1b98708abcc18fac6d7ae1114bf82d2fa77297c4f8d9",
-      "rows": 1325487
+      "size": 47693475,
+      "sha256": "e5752fef1ca675b70ee7c91ef3648079273580ac5d413d679c1e77c0787406c5",
+      "rows": 1350247
     },
     {
       "name": "mame.zip",
       "size": 1223393,
-      "sha256": "8c8663a44472a90af269389d82adde0909cd8e50977078fc2bab999dd0806903",
+      "sha256": "a09d831f294001cab268014b27945ce32a7775cd2d58bbf75ae0398215880ff0",
       "rows": 48781
     },
     {
       "name": "game_alternatives.zip",
-      "size": 1275847,
-      "sha256": "16db3fdabc4a68d5b86fe5baac8c193696fd212d81edeaa12a201c8e96324bde",
-      "rows": 70093
+      "size": 1304394,
+      "sha256": "016b95006651865fa450614d6dbf38ec92a19f34734a87b4c9457f141431b4e4",
+      "rows": 71557
     }
-  ]
+  ],
+  "latest": "2026-11-01-002"
 }
