@@ -32,5 +32,48 @@
       "sha256": "16db3fdabc4a68d5b86fe5baac8c193696fd212d81edeaa12a201c8e96324bde",
       "rows": 70093
     }
-  ]
+  ],
+  "latest": "2026-11-01-001",
+  "delta": {
+    "base": "2026-09-02-001",
+    "revision": "2026-11-01-001",
+    "generatedAt": "2026-11-01T23:52:04Z",
+    "files": [
+      {
+        "name": "delta_games.zip",
+        "size": 2166474,
+        "sha256": "7338504d4e27daedfe2371b49b2c84e5f3157fa4180c38120656d874d00336d7",
+        "rows": 7562,
+        "deleted": 90
+      },
+      {
+        "name": "delta_platforms.zip",
+        "size": 2924,
+        "sha256": "3a038e1924f70a9b0ca43e0d9288ad83d9a380e9765bf5857ee1ac23d2dca122",
+        "rows": 5,
+        "deleted": 0
+      },
+      {
+        "name": "delta_images.zip",
+        "size": 1788711,
+        "sha256": "9514b49aa07e14f34cac932def844e8f50ac45f80945198f9b8865f24d5c51af",
+        "rows": 40903,
+        "deleted": 12928
+      },
+      {
+        "name": "delta_mame.zip",
+        "size": 234,
+        "sha256": "6f4ddf1a68db6b48dcab9bf1c96c2c43761c446d4f2a4bf3281446d36a6de45f",
+        "rows": 0,
+        "deleted": 0
+      },
+      {
+        "name": "delta_game_alternatives.zip",
+        "size": 46022,
+        "sha256": "69ddea645e0723a1fc60b2b7492387ed973eb00359ab6050cc943ce28dc0568b",
+        "rows": 1837,
+        "deleted": 365
+      }
+    ]
+  }
 }
