@@ -1,0 +1,5678 @@
+{
+ "schema": 1,
+ "revision": 1,
+ "emulators": [
+  {
+   "name": "RetroArch: 4DO (4do_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "3DO"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "4do_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Atari800 (atari800_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari 5200"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "atari800_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: a5200 (a5200_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari 5200"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "a5200_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle Cygne (mednafen_wswan_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "WonderSwan",
+    "WonderSwan Color"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_wswan_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle PSX (mednafen_psx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_psx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle PSX HW (mednafen_psx_hw_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_psx_hw_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle Saturn (mednafen_saturn_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Saturn"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_saturn_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle Supafaust (mednafen_supafaust_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_supafaust_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: blueMSX (bluemsx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "MSX",
+    "ColecoVision",
+    "Sega SG-1000"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bluemsx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: BSNES (bsnes_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bsnes_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: BSNES 2014 Accuracy (bsnes2014_accuracy_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bsnes2014_accuracy_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: BSNES 2014 Balanced (bsnes2014_balanced_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bsnes2014_balanced_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: BSNES 2014 Performance (bsnes2014_performance_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bsnes2014_performance_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: BSNES C++98 (bsnes_cplusplus98_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bsnes_cplusplus98_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: BSNES HD (bsnes_hd_beta_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bsnes_hd_beta_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: BSNES-mercury Accuracy (bsnes_mercury_accuracy_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bsnes_mercury_accuracy_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: BSNES-mercury Balanced (bsnes_mercury_balanced_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bsnes_mercury_balanced_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: BSNES-mercury Performance (bsnes_mercury_performance_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bsnes_mercury_performance_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Caprice32 (cap32_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Amstrad CPC"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "cap32_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: CATSFC (catsfc_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "catsfc_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Citra (citra_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "citra_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Citra 2018 (citra2018_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "citra2018_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Citra Canary/Experimental (citra_canary_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "citra_canary_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: C64 VICE x64 fast (vice_x64_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Commodore 64"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "vice_x64_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Gearcoleco (gearcoleco_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "ColecoVision"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "gearcoleco_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: C64 VICE x64sc accurate (vice_x64sc_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Commodore 64"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "vice_x64sc_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: CrocoDS (crocods_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Amstrad CPC"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "crocods_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: DeSmuME (desmume_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo DS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "desmume_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: DeSmuME 2015 (desmume2015_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo DS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "desmume2015_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Dolphin (dolphin_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo GameCube",
+    "Nintendo Wii"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "dolphin_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: DuckStation (duckstation_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "duckstation_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: SwanStation (swanstation_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "swanstation_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: FCEUmm (fceumm_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo NES (Nintendo Entertainment System)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fceumm_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Final Burn Alpha (fbalpha_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fbalpha_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Final Burn Alpha 2012 (fbalpha2012_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fbalpha2012_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Final Burn Alpha 2012 Neo Geo (fbalpha2012_neogeo_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Neo Geo"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fbalpha2012_neogeo_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Final Burn Alpha 2012 CPS-1 (fbalpha2012_cps1_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fbalpha2012_cps1_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Final Burn Alpha 2012 CPS-2 (fbalpha2012_cps2_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fbalpha2012_cps2_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Final Burn Alpha 2012 CPS-3 (fbalpha2012_cps3_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fbalpha2012_cps3_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Final Burn Neo (fbneo_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade",
+    "Neo Geo",
+    "Neo Geo CD"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fbneo_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Flycast (flycast_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Dreamcast",
+    "Sega Naomi",
+    "Atomiswave"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "flycast_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: fMSX (fmsx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "MSX"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fmsx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: FreeIntv (freeintv_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Intellivision"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "freeintv_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Frodo (frodo_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Commodore 64"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "frodo_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: FUSE (fuse_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sinclair ZX Spectrum"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fuse_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Geolith (geolith_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Neo Geo",
+    "Neo Geo CD"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "geolith_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Gambatte (gambatte_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "gambatte_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Gearboy (gearboy_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "gearboy_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Game & Watch (gw_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Game & Watch"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "gw_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Gearsystem (gearsystem_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Master System",
+    "Sega SG-1000",
+    "Sega Game Gear"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "gearsystem_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Genesis Plus GX (genesis_plus_gx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Genesis",
+    "Sega CD",
+    "Sega Master System",
+    "Sega Game Gear",
+    "Sega SG-1000"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "genesis_plus_gx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Genesis Plus GX Wide (genesis_plus_gx_wide_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Genesis",
+    "Sega CD",
+    "Sega Master System",
+    "Sega Game Gear",
+    "Sega SG-1000"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "genesis_plus_gx_wide_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: gpSP (gpsp_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "gpsp_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Retroid Pocket gpSP (gpsp_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "gpsp_libretro_android.so",
+    "package": "com.gpsp"
+   }
+  },
+  {
+   "name": "RetroArch: Handy (handy_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari Lynx"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "handy_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Hatari (hatari_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari ST"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "hatari_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME (mame_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME (mamearcade_libretro.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mamearcade_libretro.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME - Current (mamearcade_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mamearcade_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME (mame_libretro.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame_libretro.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME 0.78 (mame078_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame078_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME 2000 (mame2000_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame2000_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME 2003 (mame2003_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame2003_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME 2003-Plus (mame2003_plus_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame2003_plus_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME 2003 Midway (mame2003_midway_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame2003_midway_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME 2010 (mame2010_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame2010_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME 2014 (mame2014_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame2014_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME 2016 (mame2016_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame2016_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mednafen Lynx (mednafen_lynx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari Lynx"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_lynx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle Lynx (mednafen_lynx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari Lynx"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_lynx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle PCE FAST (mednafen_pce_fast_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "TurboGrafx 16",
+    "TurboGrafx CD"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_pce_fast_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mednafen NEC - PC Engine SuperGrafx Beetle SGX (mednafen_supergrafx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "TurboGrafx 16",
+    "TurboGrafx CD"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_supergrafx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mednafen NEC - PC Engine / SuperGrafx / CD Beetle PCE (mednafen_pce_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "TurboGrafx 16",
+    "TurboGrafx CD"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_pce_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mednafen NGP (mednafen_ngp_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Neo Geo Pocket",
+    "Neo Geo Pocket Color"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_ngp_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle NeoPop (mednafen_ngp_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Neo Geo Pocket",
+    "Neo Geo Pocket Color"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_ngp_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mednafen PCE FAST (mednafen_pce_fast_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "TurboGrafx 16",
+    "TurboGrafx CD"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_pce_fast_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mednafen PC-FX (mednafen_pcfx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "PC-FX"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_pcfx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mednafen VB (mednafen_vb_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Virtual Boy"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_vb_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle VB (mednafen_vb_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Virtual Boy"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_vb_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mednafen WSWAN (mednafen_wswan_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "WonderSwan",
+    "WonderSwan Color"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_wswan_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: melonDS (melonds_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo DS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "melonds_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: melonDS DS (melondsds_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo DS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "melondsds_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mesen (mesen_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo NES (Nintendo Entertainment System)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mesen_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mesen-S (mesen-s_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)",
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mesen-s_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Meteor (meteor_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "meteor_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: mGBA (mgba_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Advance",
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mgba_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mupen64Plus-Next (mupen64plus_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mupen64plus_next_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mupen64Plus-Next GLES3 (mupen64plus_gles3_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mupen64plus_next_gles3_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mupen64Plus-Next GLES2 (mupen64plus_next_gles2_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mupen64plus_next_gles2_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Mupen64Plus-Next GLES3 (mupen64plus_next_gles3_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mupen64plus_next_gles3_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: NeoCD (neocd_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Neo Geo CD"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "neocd_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Nestopia (nestopia_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo NES (Nintendo Entertainment System)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "nestopia_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: NooDS (noods_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo DS",
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "noods_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: O2EM (o2em_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Magnavox Odyssey 2"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "o2em_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Opera (opera_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "3DO"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "opera_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: P-UAE (puae_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Amiga",
+    "Amiga CD32"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "puae_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: PUAE 2021 (puae2021_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Amiga",
+    "Amiga CD32"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "puae2021_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: ParaLLEl N64 (parallel_n64_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "parallel_n64_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: PCSX ReARMed (pcsx_rearmed_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "pcsx_rearmed_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: PCSX ReARMed (pcsx_rearmed_libretro_neon_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "pcsx_rearmed_libretro_neon_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: PicoDrive (picodrive_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Genesis",
+    "Sega 32X",
+    "Sega CD",
+    "Sega Master System",
+    "Sega Game Gear"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "picodrive_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: SMS Plus GX (smsplus_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Genesis",
+    "Sega Master System",
+    "Sega Game Gear"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "smsplus_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Play! (play_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation 2"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "play_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: PokeMini (pokemini_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Pokémon Mini"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "pokemini_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: PPSSPP (ppsspp_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation Portable (PSP)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "ppsspp_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: ProSystem (prosystem_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari 7800"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "prosystem_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: PX68k (px68k_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sharp X68000"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "px68k_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: QuickNES (quicknes_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo NES (Nintendo Entertainment System)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "quicknes_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Race (race_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Neo Geo Pocket",
+    "Neo Geo Pocket Color"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "race_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Reicast (reicast_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Dreamcast",
+    "Sega Naomi",
+    "Atomiswave"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "reicast_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: SameBoy (sameboy_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Color"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "sameboy_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Snes9x (snes9x_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "snes9x_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Snes9x 2002 (snes9x2002_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "snes9x2002_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Snes9x 2005 (snes9x2005_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "snes9x2005_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Snes9x 2005 Plus (snes9x2005_plus_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "snes9x2005_plus_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Snes9x 2010 (snes9x2010_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "snes9x2010_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Snes9x Next (snes9x_next_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "snes9x_next_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Stella (stella_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari 2600"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "stella_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Stella 2014 (stella2014_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari 2600"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "stella2014_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: TGB Dual (tgbdual_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "tgbdual_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: UME (ume_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "ume_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: VBA Next (vba_next_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "vba_next_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: VBA-M (vbam_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Advance",
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "vbam_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: vecx (vecx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Vectrex"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "vecx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Virtual Jaguar (virtualjaguar_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari Jaguar"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "virtualjaguar_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Yaba Sanshiro (yabasanshiro_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Saturn"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "yabasanshiro_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Yabause (yabause_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Saturn"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "yabause_libretro_android.so"
+   }
+  },
+  {
+   "name": "Hataroid",
+   "rev": 1,
+   "type": "app",
+   "package": "com.RetroSoft.Hataroid",
+   "systems": [
+    "Atari ST"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.RetroSoft.Hataroid",
+    "activity": "com.RetroSoft.Hataroid.HataroidActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "_argFloppyA"
+    }
+   }
+  },
+  {
+   "name": "2600.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.A2600Emu",
+   "systems": [
+    "Atari 2600"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.A2600Emu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "AetherSX2",
+   "rev": 1,
+   "type": "app",
+   "package": "xyz.aethersx2.android",
+   "systems": [
+    "Sony Playstation 2"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "xyz.aethersx2.android",
+    "activity": "xyz.aethersx2.android.EmulationActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "bootPath"
+    }
+   }
+  },
+  {
+   "name": "Ataroid",
+   "rev": 1,
+   "type": "app",
+   "package": "com.androidemu.atari",
+   "systems": [
+    "Atari 2600"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.androidemu.atari",
+    "activity": "com.androidemu.atari.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Azahar Play Store Edition",
+   "rev": 1,
+   "type": "app",
+   "package": "io.github.lime3ds.android",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "io.github.lime3ds.android",
+    "activity": "org.citra.citra_emu.activities.EmulationActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "CLEAR_TASK",
+     "CLEAR_TOP"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Azahar (Vanilla)",
+   "rev": 1,
+   "type": "app",
+   "package": "org.azahar_emu.azahar",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.azahar_emu.azahar",
+    "activity": "org.citra.citra_emu.activities.EmulationActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "CLEAR_TASK",
+     "CLEAR_TOP"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "AzaharPlus (Legacy)",
+   "rev": 1,
+   "type": "app",
+   "package": "io.github.lime3ds.android",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "io.github.lime3ds.android",
+    "activity": "org.citra.citra_emu.activities.EmulationActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "CLEAR_TASK",
+     "CLEAR_TOP"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Citra Antutu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.antutu.ABenchMark",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.antutu.ABenchMark",
+    "activity": "org.citra.emu.ui.EmulationActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "GamePath"
+    }
+   }
+  },
+  {
+   "name": "Citra Emulator",
+   "rev": 1,
+   "type": "app",
+   "package": "org.citra.citra_emu",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "open",
+    "package": "org.citra.citra_emu"
+   }
+  },
+  {
+   "name": "Citra Enhanced",
+   "rev": 1,
+   "type": "app",
+   "package": "org.gamerytb.citra_emu",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "open",
+    "package": "org.citra.citra_emu"
+   }
+  },
+  {
+   "name": "Citra MMJ",
+   "rev": 1,
+   "type": "app",
+   "package": "org.citra.emu",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.citra.emu",
+    "activity": "org.citra.emu.ui.EmulationActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "GamePath"
+    }
+   }
+  },
+  {
+   "name": "ClassicBoy (32-bit)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.portableandroid.classicboyLite",
+   "systems": [
+    "Sony Playstation",
+    "Nintendo 64",
+    "Nintendo Game Boy Advance",
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Color",
+    "Nintendo NES (Nintendo Entertainment System)",
+    "Nintendo Pokémon Mini",
+    "Sega Genesis",
+    "Sega CD",
+    "Sega Master System",
+    "Sega Game Gear",
+    "Sega Saturn",
+    "Arcade",
+    "Neo Geo",
+    "Neo Geo CD",
+    "Atari 2600"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.portableandroid.classicboyLite",
+    "activity": "com.portableandroid.classicboy.EntryActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "ClassicBoy Gold (64-bit)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.portableandroid.classicboy",
+   "systems": [
+    "Sony Playstation",
+    "Nintendo 64",
+    "Nintendo DS",
+    "Nintendo Game Boy Advance",
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Color",
+    "Nintendo NES (Nintendo Entertainment System)",
+    "Nintendo Pokémon Mini",
+    "Nintendo SNES (Super Nintendo)",
+    "Sega 32X",
+    "Sega Genesis",
+    "Sega CD",
+    "Sega Master System",
+    "Sega Game Gear",
+    "Sega Saturn",
+    "Arcade",
+    "Neo Geo",
+    "Neo Geo CD",
+    "Neo Geo Pocket Color",
+    "Neo Geo Pocket",
+    "Atari 2600",
+    "TurboGrafx 16",
+    "TurboGrafx CD",
+    "WonderSwan",
+    "WonderSwan Color"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.portableandroid.classicboy",
+    "activity": "com.portableandroid.classicboy.SplashActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "FILE_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "C64.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.C64Emu",
+   "systems": [
+    "Commodore 64"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.C64Emu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "ColEm",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fms.colem",
+   "systems": [
+    "ColecoVision"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fms.colem",
+    "activity": "com.fms.emulib.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "ColEm Deluxe",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fms.colem.deluxe",
+   "systems": [
+    "ColecoVision"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fms.colem.deluxe",
+    "activity": "com.fms.emulib.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "DamonPS2",
+   "rev": 1,
+   "type": "app",
+   "package": "com.damonplay.damonps2.free",
+   "systems": [
+    "Sony Playstation 2"
+   ],
+   "launch": {
+    "kind": "open",
+    "package": "com.damonplay.damonps2.free"
+   }
+  },
+  {
+   "name": "DamonPS2 Pro",
+   "rev": 1,
+   "type": "app",
+   "package": "com.damonplay.damonps2.pro.ppsspp",
+   "systems": [
+    "Sony Playstation 2"
+   ],
+   "launch": {
+    "kind": "open",
+    "package": "com.damonplay.damonps2.pro.ppsspp"
+   }
+  },
+  {
+   "name": "Dolphin",
+   "rev": 1,
+   "type": "app",
+   "package": "org.dolphinemu.dolphinemu",
+   "systems": [
+    "Nintendo GameCube",
+    "Nintendo Wii"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.dolphinemu.dolphinemu",
+    "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
+    "action": "android.intent.action.MAIN",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "AutoStartFile"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 30,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "EXTRA",
+       "key": "AutoStartFile"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Dolphin MMJ",
+   "rev": 1,
+   "type": "app",
+   "package": "org.mm.j",
+   "systems": [
+    "Nintendo GameCube",
+    "Nintendo Wii"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.mm.j",
+    "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "AutoStartFile"
+    }
+   }
+  },
+  {
+   "name": "Dolphin MMJR",
+   "rev": 1,
+   "type": "app",
+   "package": "org.mm.jr",
+   "systems": [
+    "Nintendo GameCube",
+    "Nintendo Wii"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.mm.jr",
+    "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "AutoStartFile"
+    }
+   }
+  },
+  {
+   "name": "Dolphin MMJR2",
+   "rev": 1,
+   "type": "app",
+   "package": "org.dolphinemu.mmjr",
+   "systems": [
+    "Nintendo GameCube",
+    "Nintendo Wii"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.dolphinemu.mmjr",
+    "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "AutoStartFile"
+    }
+   }
+  },
+  {
+   "name": "Dolphin for Handheld",
+   "rev": 1,
+   "type": "app",
+   "package": "org.dolphinemu.handheld",
+   "systems": [
+    "Nintendo GameCube",
+    "Nintendo Wii"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.dolphinemu.handheld",
+    "activity": "org.dolphinemu.dolphinemu.ui.main.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "AutoStartFile"
+    }
+   }
+  },
+  {
+   "name": "DraStic",
+   "rev": 1,
+   "type": "app",
+   "package": "com.dsemu.drastic",
+   "systems": [
+    "Nintendo DS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.dsemu.drastic",
+    "activity": "com.dsemu.drastic.DraSticActivity",
+    "action": "android.intent.action.VIEW",
+    "categories": [
+     "android.intent.category.LAUNCHER"
+    ],
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "GAMEPATH"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "min_device_sdk": 30,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "/"
+      }
+     },
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "FILE_URI",
+       "slot": "DATA",
+       "type": "/"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "DuckStation",
+   "rev": 1,
+   "type": "app",
+   "package": "com.github.stenzek.duckstation",
+   "systems": [
+    "Sony Playstation"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.github.stenzek.duckstation",
+    "activity": "com.github.stenzek.duckstation.EmulationActivity",
+    "action": "android.intent.action.MAIN",
+    "categories": [
+     "android.intent.category.LAUNCHER"
+    ],
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "bootPath"
+    }
+   }
+  },
+  {
+   "name": "ePSXe",
+   "rev": 1,
+   "type": "app",
+   "package": "com.epsxe.ePSXe",
+   "systems": [
+    "Sony Playstation"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.epsxe.ePSXe",
+    "activity": "com.epsxe.ePSXe.ePSXe",
+    "action": "android.intent.action.MAIN",
+    "categories": [
+     "android.intent.category.LAUNCHER"
+    ],
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "com.epsxe.ePSXe.isoName"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 30,
+      "min_device_sdk": 30,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "EXTRA",
+       "key": "com.epsxe.ePSXe.isoName"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Flycast",
+   "rev": 1,
+   "type": "app",
+   "package": "com.flycast.emulator",
+   "systems": [
+    "Sega Dreamcast",
+    "Sega Naomi",
+    "Atomiswave"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.flycast.emulator",
+    "activity": "com.flycast.emulator.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "fMSX",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fms.fmsx",
+   "systems": [
+    "MSX"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fms.fmsx",
+    "activity": "com.fms.emulib.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "fMSX Deluxe",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fms.fmsx.deluxe",
+   "systems": [
+    "MSX"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fms.fmsx.deluxe",
+    "activity": "com.fms.emulib.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "FPse",
+   "rev": 1,
+   "type": "app",
+   "package": "com.emulator.fpse",
+   "systems": [
+    "Sony Playstation"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.emulator.fpse",
+    "activity": "com.emulator.fpse.Main",
+    "action": "android.intent.action.VIEW",
+    "categories": [
+     "android.intent.category.LAUNCHER"
+    ],
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "path"
+    },
+    "extras": [
+     {
+      "key": "bios",
+      "int": 1
+     }
+    ]
+   }
+  },
+  {
+   "name": "FPse64 for Android",
+   "rev": 1,
+   "type": "app",
+   "package": "com.emulator.fpse64",
+   "systems": [
+    "Sony Playstation"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.emulator.fpse64",
+    "activity": "com.emulator.fpse64.Main",
+    "action": "android.intent.action.VIEW",
+    "categories": [
+     "android.intent.category.LAUNCHER"
+    ],
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "path"
+    },
+    "extras": [
+     {
+      "key": "bios",
+      "int": 1
+     }
+    ]
+   }
+  },
+  {
+   "name": "GameBoid",
+   "rev": 1,
+   "type": "app",
+   "package": "com.androidemu.gba",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.androidemu.gba",
+    "activity": "com.androidemu.gba.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "GBA.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.GbaEmu",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.GbaEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "GBC.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.GbcEmu",
+   "systems": [
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Color"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.GbcEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "GBCoid",
+   "rev": 1,
+   "type": "app",
+   "package": "com.androidemu.gbc",
+   "systems": [
+    "Nintendo Game Boy Color"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.androidemu.gbc",
+    "activity": "com.androidemu.gbc.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Gearoid",
+   "rev": 1,
+   "type": "app",
+   "package": "com.androidemu.gg",
+   "systems": [
+    "Sega Game Gear"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.androidemu.gg",
+    "activity": "com.androidemu.gg.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Gensoid",
+   "rev": 1,
+   "type": "app",
+   "package": "com.androidemu.gens",
+   "systems": [
+    "Sega Genesis"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.androidemu.gens",
+    "activity": "com.androidemu.gens.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "iNES",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fms.ines",
+   "systems": [
+    "Nintendo NES (Nintendo Entertainment System)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fms.ines",
+    "activity": "com.fms.emulib.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Lime3DS",
+   "rev": 1,
+   "type": "app",
+   "package": "io.github.lime3ds.android",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "io.github.lime3ds.android",
+    "activity": "io.github.lime3ds.android.activities.EmulationActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 30,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Linkboy",
+   "rev": 1,
+   "type": "app",
+   "package": "com.pixelrespawn.linkboy",
+   "systems": [
+    "Nintendo Game Boy Advance",
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.pixelrespawn.linkboy",
+    "activity": "com.pixelrespawn.linkboy.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "CLEAR_TASK",
+     "CLEAR_TOP"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Lynx.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.LynxEmu",
+   "systems": [
+    "Atari Lynx"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.LynxEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "MAME4droid (0.139)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.seleuco.mame4droid",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.seleuco.mame4droid",
+    "activity": "com.seleuco.mame4droid.MAME4droid",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "CLEAR_TASK",
+     "CLEAR_TOP"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "MAME4droid Current (0.284)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.seleuco.mame4d2024",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.seleuco.mame4d2024",
+    "activity": "com.seleuco.mame4droid.MAME4droid",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "CLEAR_TASK",
+     "CLEAR_TOP"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "MasterGear",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fms.mg",
+   "systems": [
+    "Sega Game Gear",
+    "Sega Master System",
+    "Sega SG-1000"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fms.mg",
+    "activity": "com.fms.emulib.FileChooser",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 30,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "MD.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.MdEmu",
+   "systems": [
+    "Sega CD",
+    "Sega Genesis",
+    "Sega Master System"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.MdEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "melonDS",
+   "rev": 1,
+   "type": "app",
+   "package": "me.magnum.melonds",
+   "systems": [
+    "Nintendo DS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "me.magnum.melonds",
+    "activity": "me.magnum.melonds.ui.emulator.EmulatorActivity",
+    "action": "android.intent.action.LAUNCH_ROM",
+    "categories": [
+     "android.intent.category.LAUNCHER"
+    ],
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "uri"
+    }
+   }
+  },
+  {
+   "name": "MSX.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.MsxEmu",
+   "systems": [
+    "MSX"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.MsxEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Mupen64Plus AE (Non-Play Store version from paulscode.com)",
+   "rev": 1,
+   "type": "app",
+   "package": "paulscode.android.mupen64plusae",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "paulscode.android.mupen64plusae",
+    "activity": "paulscode.android.mupen64plusae.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Mupen64Plus AE V3 Alpha (paulscode.com version)",
+   "rev": 1,
+   "type": "app",
+   "package": "org.mupen64plusae.v3.alpha",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.mupen64plusae.v3.alpha",
+    "activity": "paulscode.android.mupen64plusae.SplashActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Mupen64+AE FREE (Play store version by Paul Lamb)",
+   "rev": 1,
+   "type": "app",
+   "package": "paulscode.android.mupen64plus.free",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "paulscode.android.mupen64plus.free",
+    "activity": "paulscode.android.mupen64plusae.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Mupen64Plus AE (Play store version by Paul Lamb)",
+   "rev": 1,
+   "type": "app",
+   "package": "paulscode.android.mupen64plus",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "paulscode.android.mupen64plus",
+    "activity": "paulscode.android.mupen64plusae.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Mupen64Plus FZ (Play Store version by Francisco Zurita)",
+   "rev": 1,
+   "type": "app",
+   "package": "org.mupen64plusae.v3.fzurita",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.mupen64plusae.v3.fzurita",
+    "activity": "paulscode.android.mupen64plusae.SplashActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "/"
+      },
+      "min_device_sdk": 30
+     },
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "FILE_URI",
+       "slot": "DATA",
+       "type": "/"
+      }
+     },
+     {
+      "min_target_sdk": 30,
+      "min_device_sdk": 30,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Mupen64Plus FZ Pro (Play Store version by Francisco Zurita)",
+   "rev": 1,
+   "type": "app",
+   "package": "org.mupen64plusae.v3.fzurita.pro",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.mupen64plusae.v3.fzurita.pro",
+    "activity": "paulscode.android.mupen64plusae.SplashActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "/"
+      },
+      "min_device_sdk": 30
+     },
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "FILE_URI",
+       "slot": "DATA",
+       "type": "/"
+      }
+     },
+     {
+      "min_target_sdk": 30,
+      "min_device_sdk": 30,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "My Boy! (free version)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fastemulator.gbafree",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fastemulator.gbafree",
+    "activity": "com.fastemulator.gba.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "My Boy! (paid version)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fastemulator.gba",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fastemulator.gba",
+    "activity": "com.fastemulator.gba.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "application/x-gba-rom"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "My OldBoy! (free version)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fastemulator.gbcfree",
+   "systems": [
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Color"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fastemulator.gbcfree",
+    "activity": "com.fastemulator.gbc.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "My OldBoy! (paid version)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fastemulator.gbc",
+   "systems": [
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Color"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fastemulator.gbc",
+    "activity": "com.fastemulator.gbc.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "application/x-gba-rom"
+      },
+      "min_device_sdk": 30
+     },
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "FILE_URI",
+       "slot": "DATA",
+       "type": "application/x-gba-rom"
+      }
+     },
+     {
+      "min_target_sdk": 30,
+      "min_device_sdk": 30,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "N64oid",
+   "rev": 1,
+   "type": "app",
+   "package": "com.androidemu.n64",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.androidemu.n64",
+    "activity": "com.androidemu.n64.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "NEO.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.NeoEmu",
+   "systems": [
+    "Neo Geo"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.NeoEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "NES.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.NesEmu",
+   "systems": [
+    "Nintendo NES (Nintendo Entertainment System)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.NesEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "NESoid",
+   "rev": 1,
+   "type": "app",
+   "package": "com.androidemu.nes",
+   "systems": [
+    "Nintendo NES (Nintendo Entertainment System)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.androidemu.nes",
+    "activity": "com.androidemu.nes.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "NGP.EMU",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.NgpEmu",
+   "systems": [
+    "Neo Geo Pocket Color",
+    "Neo Geo Pocket"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.NgpEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "NooDS",
+   "rev": 1,
+   "type": "app",
+   "package": "com.hydra.noods",
+   "systems": [
+    "Nintendo DS",
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.hydra.noods",
+    "activity": "com.hydra.noods.FileBrowser",
+    "action": "android.intent.action.MAIN",
+    "flags": [],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "LaunchPath"
+    }
+   }
+  },
+  {
+   "name": "PCE.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.PceEmu",
+   "systems": [
+    "TurboGrafx 16",
+    "TurboGrafx CD"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.PceEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Pizza Boy Pro",
+   "rev": 1,
+   "type": "app",
+   "package": "it.dbtecno.pizzaboypro",
+   "systems": [
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Color"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "it.dbtecno.pizzaboypro",
+    "activity": "it.dbtecno.pizzaboypro.MainActivity",
+    "action": "android.intent.action.MAIN",
+    "flags": [
+     "CLEAR_TOP",
+     "CLEAR_TASK"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "rom_uri"
+    }
+   }
+  },
+  {
+   "name": "Pizza Boy GBA Pro",
+   "rev": 1,
+   "type": "app",
+   "package": "it.dbtecno.pizzaboygbapro",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "it.dbtecno.pizzaboygbapro",
+    "activity": "it.dbtecno.pizzaboygbapro.MainActivity",
+    "action": "android.intent.action.MAIN",
+    "flags": [
+     "CLEAR_TOP",
+     "CLEAR_TASK"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "rom_uri"
+    }
+   }
+  },
+  {
+   "name": "Pizza Boy (Free)",
+   "rev": 1,
+   "type": "app",
+   "package": "it.dbtecno.pizzaboy",
+   "systems": [
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Color"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "it.dbtecno.pizzaboy",
+    "activity": "it.dbtecno.pizzaboy.MainActivity",
+    "action": "android.intent.action.MAIN",
+    "flags": [
+     "CLEAR_TOP",
+     "CLEAR_TASK"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "rom_uri"
+    }
+   }
+  },
+  {
+   "name": "Pizza Boy GBA (Free)",
+   "rev": 1,
+   "type": "app",
+   "package": "it.dbtecno.pizzaboygba",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "it.dbtecno.pizzaboygba",
+    "activity": "it.dbtecno.pizzaboygba.MainActivity",
+    "action": "android.intent.action.MAIN",
+    "flags": [
+     "CLEAR_TOP",
+     "CLEAR_TASK"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "rom_uri"
+    }
+   }
+  },
+  {
+   "name": "Pizza Boy SC Pro",
+   "rev": 1,
+   "type": "app",
+   "package": "it.dbtecno.pizzaboyscpro",
+   "systems": [
+    "Sega Genesis",
+    "Sega Game Gear",
+    "Sega CD",
+    "Sega Master System"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "it.dbtecno.pizzaboyscpro",
+    "activity": "it.dbtecno.pizzaboyscpro.MainActivity",
+    "action": "android.intent.action.MAIN",
+    "flags": [
+     "CLEAR_TOP",
+     "CLEAR_TASK"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "rom_uri"
+    }
+   }
+  },
+  {
+   "name": "Pizza Boy SC Basic",
+   "rev": 1,
+   "type": "app",
+   "package": "it.dbtecno.pizzaboyscbasic",
+   "systems": [
+    "Sega Genesis",
+    "Sega Game Gear",
+    "Sega CD",
+    "Sega Master System"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "it.dbtecno.pizzaboyscbasic",
+    "activity": "it.dbtecno.pizzaboyscbasic.MainActivity",
+    "action": "android.intent.action.MAIN",
+    "flags": [
+     "CLEAR_TOP",
+     "CLEAR_TASK"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "rom_uri"
+    }
+   }
+  },
+  {
+   "name": "Play!",
+   "rev": 1,
+   "type": "app",
+   "package": "com.virtualapplications.play",
+   "systems": [
+    "Sony Playstation 2"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.virtualapplications.play",
+    "activity": "com.virtualapplications.play.ExternalEmulatorLauncher",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Real3DOPlayer",
+   "rev": 1,
+   "type": "app",
+   "package": "ru.vastness.altmer.real3doplayer",
+   "systems": [
+    "3DO"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "ru.vastness.altmer.real3doplayer",
+    "activity": "ru.vastness.altmer.real3doplayer.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "cd"
+    }
+   }
+  },
+  {
+   "name": "IrataJaguar",
+   "rev": 1,
+   "type": "app",
+   "package": "ru.vastness.altmer.iratajaguar",
+   "systems": [
+    "Atari Jaguar"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "ru.vastness.altmer.iratajaguar",
+    "activity": "ru.vastness.altmer.iratajaguar.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "rom"
+    }
+   }
+  },
+  {
+   "name": "Uae4arm",
+   "rev": 1,
+   "type": "app",
+   "package": "atua.anddev.uae4arm",
+   "systems": [
+    "Amiga",
+    "Amiga CD32"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "atua.anddev.uae4arm",
+    "activity": "atua.anddev.uae4arm.MainActivity",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "PSPe+ Pro",
+   "rev": 1,
+   "type": "app",
+   "package": "com.mostudios.pspepro",
+   "systems": [
+    "Sony Playstation Portable (PSP)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.mostudios.pspepro",
+    "activity": "com.mostudios.pspepro.ARC",
+    "action": "android.intent.action.PICK",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "PPSSPP",
+   "rev": 1,
+   "type": "app",
+   "package": "org.ppsspp.ppsspp",
+   "systems": [
+    "Sony Playstation Portable (PSP)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.ppsspp.ppsspp",
+    "activity": "org.ppsspp.ppsspp.PpssppActivity",
+    "action": "android.intent.action.MAIN",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "org.ppsspp.ppsspp.Shortcuts"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 30,
+      "min_device_sdk": 30,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "PPSSPP Gold",
+   "rev": 1,
+   "type": "app",
+   "package": "org.ppsspp.ppssppgold",
+   "systems": [
+    "Sony Playstation Portable (PSP)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.ppsspp.ppssppgold",
+    "activity": "org.ppsspp.ppsspp.PpssppActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "org.ppsspp.ppsspp.Shortcuts"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 30,
+      "min_device_sdk": 30,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Reicast R6",
+   "rev": 1,
+   "type": "app",
+   "package": "com.reicast.emulator",
+   "systems": [
+    "Sega Dreamcast"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.reicast.emulator",
+    "activity": "com.reicast.emulator.GL2JNIActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "RAW_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Reicast R7",
+   "rev": 1,
+   "type": "app",
+   "package": "com.reicast.emulator",
+   "systems": [
+    "Sega Dreamcast"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.reicast.emulator",
+    "activity": "com.reicast.emulator.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "RAW_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Snes9x EX",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.Snes9x",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.Snes9x",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Snes9x EX+",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.Snes9xPlus",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.Snes9xPlus",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "SNesoid",
+   "rev": 1,
+   "type": "app",
+   "package": "com.androidemu.snes",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.androidemu.snes",
+    "activity": "com.androidemu.snes.EmulatorActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Speccy",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fms.speccy",
+   "systems": [
+    "Sinclair ZX Spectrum"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fms.speccy",
+    "activity": "com.fms.emulib.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Speccy Deluxe",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fms.speccy.deluxe",
+   "systems": [
+    "Sinclair ZX Spectrum"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fms.speccy.deluxe",
+    "activity": "com.fms.emulib.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "SkyEmu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.sky.SkyEmu",
+   "systems": [
+    "Nintendo DS",
+    "Nintendo Game Boy Advance",
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.sky.SkyEmu",
+    "activity": "com.sky.SkyEmu.EnhancedNativeActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "CLEAR_TASK",
+     "CLEAR_TOP"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Retro8",
+   "rev": 1,
+   "type": "app",
+   "package": "com.neutronemulation.retro8",
+   "systems": [
+    "Nintendo NES (Nintendo Entertainment System)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.neutronemulation.retro8",
+    "activity": "com.neutronemulation.retro8.IntentFilterActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Saturn.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.SaturnEmu",
+   "systems": [
+    "Sega Saturn"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.SaturnEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "SuperRetro16",
+   "rev": 1,
+   "type": "app",
+   "package": "com.bubblezapgames.supergnes",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.bubblezapgames.supergnes",
+    "activity": "com.bubblezapgames.supergnes.IntentFilterActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "SuperRetro16 Lite",
+   "rev": 1,
+   "type": "app",
+   "package": "com.bubblezapgames.supergnes_lite",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.bubblezapgames.supergnes_lite",
+    "activity": "com.bubblezapgames.supergnes.IntentFilterActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "SuperRetro16 (Play Store Version)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.neutronemulation.super_retro_16",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.neutronemulation.super_retro_16",
+    "activity": "com.bubblezapgames.supergnes.IntentFilterActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Swan.emu",
+   "rev": 1,
+   "type": "app",
+   "package": "com.explusalpha.SwanEmu",
+   "systems": [
+    "WonderSwan",
+    "WonderSwan Color"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.explusalpha.SwanEmu",
+    "activity": "com.imagine.BaseActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Tendo64",
+   "rev": 1,
+   "type": "app",
+   "package": "com.loyalgroupenterprise.tendo64android",
+   "systems": [
+    "Nintendo 64"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.loyalgroupenterprise.tendo64android",
+    "activity": "com.loyalgroupenterprise.tendo64android.SplashActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "uoYabause",
+   "rev": 1,
+   "type": "app",
+   "package": "org.uoyabause.android",
+   "systems": [
+    "Sega Saturn"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.uoyabause.android",
+    "activity": "org.uoyabause.android.Yabause",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "org.uoyabause.android.FileNameEx"
+    }
+   }
+  },
+  {
+   "name": "Yaba Sanshiro",
+   "rev": 1,
+   "type": "app",
+   "package": "org.uoyabause.uranus",
+   "systems": [
+    "Sega Saturn"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.uoyabause.uranus",
+    "activity": "org.uoyabause.android.Yabause",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "org.uoyabause.android.FileNameEx"
+    }
+   }
+  },
+  {
+   "name": "Yaba Sanshiro 2",
+   "rev": 1,
+   "type": "app",
+   "package": "org.devmiyax.yabasanshioro2",
+   "systems": [
+    "Sega Saturn"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.devmiyax.yabasanshioro2",
+    "activity": "org.uoyabause.android.Yabause",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "org.uoyabause.android.FileNameEx"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 30,
+      "min_device_sdk": 29,
+      "open": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "Yaba Sanshiro Pro",
+   "rev": 1,
+   "type": "app",
+   "package": "org.uoyabause.uranus.pro",
+   "systems": [
+    "Sega Saturn"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.uoyabause.uranus.pro",
+    "activity": "org.uoyabause.android.Yabause",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "org.uoyabause.android.FileNameEx"
+    }
+   }
+  },
+  {
+   "name": "Yaba Sanshiro Pro 2",
+   "rev": 1,
+   "type": "app",
+   "package": "org.devmiyax.yabasanshioro2.pro",
+   "systems": [
+    "Sega Saturn"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.devmiyax.yabasanshioro2.pro",
+    "activity": "org.uoyabause.android.Yabause",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "org.uoyabause.android.FileNameUri"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 30,
+      "min_device_sdk": 29,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "EXTRA",
+       "key": "org.uoyabause.android.FileNameUri"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "VGB",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fms.vgb",
+   "systems": [
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Color"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fms.vgb",
+    "activity": "com.fms.emulib.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "VGBAnext",
+   "rev": 1,
+   "type": "app",
+   "package": "com.fms.emu",
+   "systems": [
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Advance",
+    "Nintendo Game Boy Color"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.fms.emu",
+    "activity": "com.fms.vgb.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 30,
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA"
+      }
+     }
+    ]
+   },
+   "per_system": {
+    "Nintendo Game Boy": {
+     "kind": "intent",
+     "package": "com.fms.emu",
+     "activity": "com.fms.vgb.MainActivity",
+     "action": "android.intent.action.VIEW",
+     "flags": [
+      "SINGLE_TOP"
+     ],
+     "rom": {
+      "form": "FILE_URI",
+      "slot": "DATA"
+     },
+     "variants": [
+      {
+       "min_target_sdk": 30,
+       "rom": {
+        "form": "SAF_URI",
+        "slot": "DATA"
+       }
+      }
+     ]
+    },
+    "Nintendo Game Boy Color": {
+     "kind": "intent",
+     "package": "com.fms.emu",
+     "activity": "com.fms.vgb.MainActivity",
+     "action": "android.intent.action.VIEW",
+     "flags": [
+      "SINGLE_TOP"
+     ],
+     "rom": {
+      "form": "FILE_URI",
+      "slot": "DATA"
+     },
+     "variants": [
+      {
+       "min_target_sdk": 30,
+       "rom": {
+        "form": "SAF_URI",
+        "slot": "DATA"
+       }
+      }
+     ]
+    },
+    "Nintendo Game Boy Advance": {
+     "kind": "intent",
+     "package": "com.fms.emu",
+     "activity": "com.fms.vgba.MainActivity",
+     "action": "android.intent.action.VIEW",
+     "flags": [
+      "SINGLE_TOP"
+     ],
+     "rom": {
+      "form": "FILE_URI",
+      "slot": "DATA"
+     },
+     "variants": [
+      {
+       "min_target_sdk": 30,
+       "rom": {
+        "form": "SAF_URI",
+        "slot": "DATA"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "name": "redream",
+   "rev": 1,
+   "type": "app",
+   "package": "io.recompiled.redream",
+   "systems": [
+    "Sega Dreamcast"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "io.recompiled.redream",
+    "activity": "io.recompiled.redream.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "SINGLE_TOP"
+    ],
+    "rom": {
+     "form": "RAW_URI",
+     "slot": "DATA"
+    },
+    "variants": [
+     {
+      "min_target_sdk": 33,
+      "min_device_sdk": 30,
+      "categories": [
+       "android.intent.category.DEFAULT"
+      ],
+      "rom": {
+       "form": "SAF_URI",
+       "slot": "DATA",
+       "type": "*/*"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Eden",
+   "rev": 1,
+   "type": "app",
+   "package": "dev.eden.eden_emulator",
+   "systems": [
+    "Nintendo Switch"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "dev.eden.eden_emulator",
+    "activity": "org.yuzu.yuzu_emu.activities.EmulationActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Eden Nightly",
+   "rev": 1,
+   "type": "app",
+   "package": "dev.eden.eden_emulator.nightly",
+   "systems": [
+    "Nintendo Switch"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "dev.eden.eden_emulator.nightly",
+    "activity": "org.yuzu.yuzu_emu.activities.EmulationActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Cemu",
+   "rev": 1,
+   "type": "app",
+   "package": "info.cemu.cemu",
+   "systems": [
+    "Nintendo Wii U"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "info.cemu.cemu",
+    "activity": "info.cemu.cemu.emulation.EmulationActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "ARMSX2",
+   "rev": 1,
+   "type": "app",
+   "package": "come.nanodata.armsx2",
+   "systems": [
+    "Sony Playstation 2"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "come.nanodata.armsx2",
+    "activity": "com.armsx2.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "ARMSX2 (GitHub)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.armsx2",
+   "systems": [
+    "Sony Playstation 2"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.armsx2",
+    "activity": "com.armsx2.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Vita3K",
+   "rev": 1,
+   "type": "app",
+   "package": "org.vita3k.emulator",
+   "systems": [
+    "Sony Playstation Vita"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.vita3k.emulator",
+    "activity": "org.vita3k.emulator.Emulator",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "id": {
+     "kind": "VITA_TITLE_ID",
+     "slot": "EXTRA_ARGS",
+     "key": "AppStartParameters",
+     "args": [
+      "-r",
+      "{id}"
+     ]
+    }
+   }
+  },
+  {
+   "name": "EmuCoreV",
+   "rev": 1,
+   "type": "app",
+   "package": "com.sbro.emucorev",
+   "systems": [
+    "Sony Playstation Vita"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.sbro.emucorev",
+    "activity": "com.sbro.emucorev.core.vita.Emulator",
+    "action": "com.sbro.emucorev.action.LAUNCH",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "id": {
+     "kind": "VITA_TITLE_ID",
+     "slot": "EXTRA",
+     "key": "titleId"
+    }
+   }
+  },
+  {
+   "name": "RetroArch: DOSBox Pure (dosbox_pure_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "DOS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "dosbox_pure_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: DOSBox-core (dosbox_core_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "DOS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "dosbox_core_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: DOSBox-SVN (dosbox_svn_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "DOS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "dosbox_svn_libretro_android.so"
+   }
+  },
+  {
+   "name": "Magic DosBox",
+   "rev": 1,
+   "type": "app",
+   "package": "bruenor.magicbox",
+   "systems": [
+    "DOS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "bruenor.magicbox",
+    "activity": "bruenor.magicbox.uiGameStarterActivity",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "NAME",
+     "slot": "EXTRA",
+     "key": "intent_msg1"
+    },
+    "id": {
+     "kind": "MAGIC_DOSBOX_ID",
+     "slot": "EXTRA",
+     "key": "intent_msg1"
+    }
+   }
+  },
+  {
+   "name": "Magic DosBox Lite",
+   "rev": 1,
+   "type": "app",
+   "package": "bruenor.magicbox.free",
+   "systems": [
+    "DOS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "bruenor.magicbox.free",
+    "activity": "bruenor.magicbox.free.uiGameStarterActivity",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "NAME",
+     "slot": "EXTRA",
+     "key": "intent_msg1"
+    },
+    "id": {
+     "kind": "MAGIC_DOSBOX_ID",
+     "slot": "EXTRA",
+     "key": "intent_msg1"
+    }
+   }
+  },
+  {
+   "name": "RetroArch: ScummVM (scummvm_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "ScummVM"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "scummvm_libretro_android.so"
+   }
+  },
+  {
+   "name": "ScummVM",
+   "rev": 1,
+   "type": "app",
+   "package": "org.scummvm.scummvm",
+   "systems": [
+    "ScummVM"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.scummvm.scummvm",
+    "activity": "org.scummvm.scummvm.SplashActivity",
+    "action": "android.intent.action.MAIN",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "id": {
+     "kind": "SCUMMVM_TARGET",
+     "slot": "DATA",
+     "derive": "SCUMMVM_DATA"
+    }
+   }
+  },
+  {
+   "name": "aPS3e",
+   "rev": 1,
+   "type": "app",
+   "package": "aenu.aps3e",
+   "systems": [
+    "Sony Playstation 3"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "aenu.aps3e",
+    "activity": "aenu.aps3e.EmulatorActivity",
+    "action": "aenu.intent.action.APS3E",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "EXTRA_AND_CLIP",
+     "key": "iso_uri"
+    },
+    "id": {
+     "kind": "PS3_TITLE_ID",
+     "slot": "EXTRA",
+     "key": "game_dir",
+     "derive": "APS3E_GAME_DIR"
+    }
+   }
+  },
+  {
+   "name": "aPS3e Premium",
+   "rev": 1,
+   "type": "app",
+   "package": "aenu.aps3e.premium",
+   "systems": [
+    "Sony Playstation 3"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "aenu.aps3e.premium",
+    "activity": "aenu.aps3e.EmulatorActivity",
+    "action": "aenu.intent.action.APS3E",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "EXTRA_AND_CLIP",
+     "key": "iso_uri"
+    },
+    "id": {
+     "kind": "PS3_TITLE_ID",
+     "slot": "EXTRA",
+     "key": "game_dir",
+     "derive": "APS3E_GAME_DIR"
+    }
+   }
+  },
+  {
+   "name": "ARMSX3",
+   "rev": 1,
+   "type": "app",
+   "package": "com.armsx3",
+   "systems": [
+    "Sony Playstation 3"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.armsx3",
+    "activity": "com.armsx2.Main",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    },
+    "id": {
+     "kind": "PS3_TITLE_ID",
+     "slot": "EXTRA",
+     "key": "title_id"
+    }
+   }
+  },
+  {
+   "name": "ARMSX3 (Play Store)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.armsx3.play",
+   "systems": [
+    "Sony Playstation 3"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.armsx3.play",
+    "activity": "com.armsx2.Main",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    },
+    "id": {
+     "kind": "PS3_TITLE_ID",
+     "slot": "EXTRA",
+     "key": "title_id"
+    }
+   }
+  },
+  {
+   "name": "EmuCoreC",
+   "rev": 1,
+   "type": "app",
+   "package": "com.sbro.emucorec",
+   "systems": [
+    "Sony Playstation 3"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.sbro.emucorec",
+    "activity": "com.sbro.emucorec.core.ps3.Emulator",
+    "action": "com.sbro.emucorec.action.LAUNCH",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "gamePath"
+    },
+    "id": {
+     "kind": "PS3_TITLE_ID",
+     "slot": "EXTRA",
+     "key": "titleId"
+    }
+   }
+  },
+  {
+   "name": "X1 BOX",
+   "rev": 1,
+   "type": "app",
+   "package": "com.izzy2lost.x1box",
+   "systems": [
+    "Microsoft Xbox"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.izzy2lost.x1box",
+    "activity": "com.izzy2lost.x1box.LauncherActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "hakuX",
+   "rev": 1,
+   "type": "app",
+   "package": "com.rfandango.haku_x",
+   "systems": [
+    "Microsoft Xbox"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.rfandango.haku_x",
+    "activity": "com.rfandango.haku_x.LauncherActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "Xenra",
+   "rev": 1,
+   "type": "app",
+   "package": "Ali.Xanite.green",
+   "systems": [
+    "Microsoft Xbox",
+    "Microsoft Xbox 360"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "Ali.Xanite.green",
+    "activity": "Ali.Xanite.LauncherActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "FILE_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "aX360e",
+   "rev": 1,
+   "type": "app",
+   "package": "aenu.ax360e",
+   "systems": [
+    "Microsoft Xbox 360"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "aenu.ax360e",
+    "activity": "aenu.ax360e.EmulatorActivity",
+    "action": "aenu.intent.action.AX360E",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "game_uri"
+    }
+   }
+  },
+  {
+   "name": "aX360e Free",
+   "rev": 1,
+   "type": "app",
+   "package": "aenu.ax360e.free",
+   "systems": [
+    "Microsoft Xbox 360"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "aenu.ax360e.free",
+    "activity": "aenu.ax360e.EmulatorActivity",
+    "action": "aenu.intent.action.AX360E",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "game_uri"
+    }
+   }
+  },
+  {
+   "name": "XenDroid",
+   "rev": 1,
+   "type": "app",
+   "package": "xendroid.compose",
+   "systems": [
+    "Microsoft Xbox 360"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "xendroid.compose",
+    "activity": "xendroid.compose.EmulatorHostActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA"
+    }
+   }
+  },
+  {
+   "name": "X360 Mobile",
+   "rev": 1,
+   "type": "app",
+   "package": "emu.x360mobile.com",
+   "systems": [
+    "Microsoft Xbox 360"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "emu.x360mobile.com",
+    "activity": "emu.x360mobile.com.MainActivity",
+    "action": "android.intent.action.VIEW",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PROVIDER_URI",
+     "slot": "DATA_AND_EXTRA",
+     "key": "uri"
+    }
+   }
+  },
+  {
+   "name": "Bachata S4",
+   "rev": 1,
+   "type": "app",
+   "package": "com.bachatas4.android",
+   "systems": [
+    "Sony Playstation 4"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.bachatas4.android",
+    "activity": "com.bachatas4.android.DirectLaunchActivity",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "id": {
+     "kind": "PS4_TITLE_ID",
+     "slot": "EXTRA",
+     "key": "game_id"
+    }
+   }
+  },
+  {
+   "name": "Bachata S4 (GitHub)",
+   "rev": 1,
+   "type": "app",
+   "package": "com.bachatas4.android.github",
+   "systems": [
+    "Sony Playstation 4"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.bachatas4.android.github",
+    "activity": "com.bachatas4.android.DirectLaunchActivity",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "id": {
+     "kind": "PS4_TITLE_ID",
+     "slot": "EXTRA",
+     "key": "game_id"
+    }
+   }
+  },
+  {
+   "name": "RetroArch: MesenCE (mesen2_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "WonderSwan",
+    "WonderSwan Color",
+    "Nintendo SNES (Super Nintendo)",
+    "Nintendo NES (Nintendo Entertainment System)",
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Advance",
+    "TurboGrafx 16",
+    "TurboGrafx CD"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mesen2_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Emir (ymir_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Saturn"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "ymir_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: bsnes-jg (bsnes-jg_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "bsnes-jg_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle bsnes (mednafen_snes_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo SNES (Super Nintendo)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_snes_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: JollyCV (jollycv_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "ColecoVision"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "jollycv_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: BlastEm (blastem_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega SG-1000",
+    "Sega Master System",
+    "Sega Game Gear",
+    "Sega Genesis",
+    "Sega CD",
+    "Sega 32X"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "blastem_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: ep128emu (ep128emu_core_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Amstrad CPC",
+    "Sinclair ZX Spectrum"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "ep128emu_core_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Panda3DS (panda3ds_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo 3DS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "panda3ds_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: VICE xscpu64 (vice_xscpu64_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Commodore 64"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "vice_xscpu64_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: VICE x128 (vice_x128_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Commodore 64"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "vice_x128_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: SkyEmu (skyemu_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo DS",
+    "Nintendo Game Boy",
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "skyemu_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: RustyNES (rustynes_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo NES (Nintendo Entertainment System)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "rustynes_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: fixNES (fixnes_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo NES (Nintendo Entertainment System)"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fixnes_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: HBMAME (hbmame_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "hbmame_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: MAME 2015 (mame2015_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Arcade"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mame2015_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: IroGB (irogb_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "irogb_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: fixGB (fixgb_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Color",
+    "Nintendo Game Boy"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "fixgb_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: ClownMDEmu (clownmdemu_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sega Genesis",
+    "Sega CD"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "clownmdemu_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Beetle GBA (mednafen_gba_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Game Boy Advance"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "mednafen_gba_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Holani (holani_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari Lynx"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "holani_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Gearlynx (gearlynx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari Lynx"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "gearlynx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Hatari 2014 (hatari2014_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari ST"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "hatari2014_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: hatariB (hatarib_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari ST"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "hatarib_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Geargrafx (geargrafx_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "TurboGrafx 16",
+    "TurboGrafx CD"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "geargrafx_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Amiberry (amiberry_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Amiga",
+    "Amiga CD32"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "amiberry_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: PCEE2 (pcee2_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation 2"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "pcee2_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: LRPS2 (pcsx2_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation 2"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "pcsx2_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: ARMSX2 (armsx2_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation 2"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "armsx2_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Tia (tia_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari 2600"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "tia_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Stella 2023 (stella2023_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Atari 2600"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "stella2023_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Cemu (cemu_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Nintendo Wii U"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "cemu_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Vita3K (vita3k_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation Vita"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "vita3k_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: DOSBox (dosbox_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "DOS"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "dosbox_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: RPCS3 (rpcs3_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Sony Playstation 3"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "rpcs3_libretro_android.so"
+   }
+  },
+  {
+   "name": "RetroArch: Xenia Edge (xenia_edge_libretro_android.so)",
+   "rev": 1,
+   "type": "retroarch",
+   "package": "com.retroarch",
+   "systems": [
+    "Microsoft Xbox 360"
+   ],
+   "launch": {
+    "kind": "retroarch",
+    "core": "xenia_edge_libretro_android.so"
+   }
+  },
+  {
+   "name": "Xendroid+",
+   "rev": 1,
+   "type": "app",
+   "package": "xendroid.compose.fork",
+   "systems": [
+    "Microsoft Xbox 360"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "xendroid.compose.fork",
+    "activity": "xendroid.compose.EmulatorHostActivity",
+    "action": "xendroid.intent.action.xendroid",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "rom": {
+     "form": "PATH",
+     "slot": "EXTRA",
+     "key": "game_uri"
+    }
+   }
+  },
+  {
+   "name": "Pizza Boy Double Slice",
+   "rev": 1,
+   "type": "app",
+   "package": "com.pizzaemulators.pbds",
+   "systems": [
+    "Nintendo DS"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "com.pizzaemulators.pbds",
+    "activity": "com.pizzaemulators.pbds.MainActivity",
+    "action": "android.intent.action.MAIN",
+    "flags": [
+     "CLEAR_TOP",
+     "CLEAR_TASK"
+    ],
+    "rom": {
+     "form": "SAF_URI",
+     "slot": "EXTRA",
+     "key": "rom_uri"
+    }
+   }
+  }
+ ]
+}
