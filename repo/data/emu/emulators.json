@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "revision": 1,
+ "revision": 2,
  "emulators": [
   {
    "name": "RetroArch: 4DO (4do_libretro_android.so)",
@@ -4655,6 +4655,36 @@
       "{id}"
      ]
     }
+   }
+  },
+  {
+   "name": "Vita3K+",
+   "rev": 2,
+   "type": "app",
+   "package": "org.vita3kplus.emulator",
+   "systems": [
+    "Sony Playstation Vita"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.vita3kplus.emulator",
+    "activity": "org.vita3k.emulator.Emulator",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "id": {
+     "kind": "VITA_TITLE_ID",
+     "slot": "EXTRA_ARGS",
+     "key": "AppStartParameters",
+     "args": [
+      "-r",
+      "{id}"
+     ]
+    }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/nckstwrt/Vita3K-Plus"
    }
   },
   {
