@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "revision": 1,
+ "revision": 2,
  "emulators": [
   {
    "name": "RetroArch: 4DO (4do_libretro_android.so)",
@@ -1723,6 +1723,10 @@
      "slot": "EXTRA",
      "key": "_argFloppyA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/squalldc/hataroid"
    }
   },
   {
@@ -1758,6 +1762,19 @@
       }
      }
     ]
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/Rakashazi/emu-ex-plus-alpha/releases"
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -1781,6 +1798,15 @@
      "slot": "EXTRA",
      "key": "bootPath"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30
+    }
    }
   },
   {
@@ -1803,6 +1829,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -1825,6 +1855,11 @@
     "rom": {
      "form": "PROVIDER_URI",
      "slot": "DATA"
+    }
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30
     }
    }
   },
@@ -1849,6 +1884,10 @@
      "form": "PROVIDER_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/azahar-emu/azahar/releases"
    }
   },
   {
@@ -1871,6 +1910,11 @@
     "rom": {
      "form": "PROVIDER_URI",
      "slot": "DATA"
+    }
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30
     }
    }
   },
@@ -1895,6 +1939,10 @@
      "slot": "EXTRA",
      "key": "GamePath"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/weihuoya/citra/releases"
    }
   },
   {
@@ -1908,6 +1956,16 @@
    "launch": {
     "kind": "open",
     "package": "org.citra.citra_emu"
+   },
+   "install": {
+    "play": false,
+    "url": null
+   },
+   "notice": {
+    "en": {
+     "title": "Citra ROM Launching Support",
+     "message": "The Citra Emulator doesn't support launching a ROM from a frontend. Selecting a game will launch the Citra app, but you will have to launch your game from the emulator. Launching a ROM from RESET will be supported as soon as the Citra devs add this feature.\n\nYou could try Citra MMJ or Citra Antutu, both of which support launching a ROM from a frontend."
+    }
    }
   },
   {
@@ -1921,6 +1979,16 @@
    "launch": {
     "kind": "open",
     "package": "org.citra.citra_emu"
+   },
+   "install": {
+    "play": false,
+    "url": null
+   },
+   "notice": {
+    "en": {
+     "title": "Citra ROM Launching Support",
+     "message": "The Citra Enhanced Emulator doesn't support launching a ROM from a frontend. Selecting a game will launch the Citra Enhanced app, but you will have to launch your game from the emulator. Launching a ROM from RESET will be supported as soon as the Citra Enhanced devs add this feature.\n\nYou could try Citra MMJ or Citra Antutu, both of which support launching a ROM from a frontend."
+    }
    }
   },
   {
@@ -1944,6 +2012,10 @@
      "slot": "EXTRA",
      "key": "GamePath"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/weihuoya/citra/releases"
    }
   },
   {
@@ -2075,6 +2147,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -2132,6 +2213,12 @@
    "launch": {
     "kind": "open",
     "package": "com.damonplay.damonps2.free"
+   },
+   "notice": {
+    "en": {
+     "title": "DamonPS2 Launching Support",
+     "message": "The DamonPS2 Emulators don't support launching a ROM from a frontend. Selecting a game will launch the DamonPS2 app, but you will have to launch your game from the emulator. Launching a ROM from RESET will be supported as soon as the DamonPS2 devs add this feature."
+    }
    }
   },
   {
@@ -2145,6 +2232,12 @@
    "launch": {
     "kind": "open",
     "package": "com.damonplay.damonps2.pro.ppsspp"
+   },
+   "notice": {
+    "en": {
+     "title": "DamonPS2 Launching Support",
+     "message": "The DamonPS2 Emulators don't support launching a ROM from a frontend. Selecting a game will launch the DamonPS2 app, but you will have to launch your game from the emulator. Launching a ROM from RESET will be supported as soon as the DamonPS2 devs add this feature."
+    }
    }
   },
   {
@@ -2179,6 +2272,11 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30
+    }
    }
   },
   {
@@ -2203,6 +2301,10 @@
      "slot": "EXTRA",
      "key": "AutoStartFile"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -2227,6 +2329,10 @@
      "slot": "EXTRA",
      "key": "AutoStartFile"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -2251,6 +2357,10 @@
      "slot": "EXTRA",
      "key": "AutoStartFile"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -2275,6 +2385,10 @@
      "slot": "EXTRA",
      "key": "AutoStartFile"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -2326,6 +2440,16 @@
       }
      }
     ]
+   },
+   "install": {
+    "play": false,
+    "url": null
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    }
    }
   },
   {
@@ -2351,6 +2475,12 @@
      "form": "SAF_URI",
      "slot": "EXTRA",
      "key": "bootPath"
+    }
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
     }
    }
   },
@@ -2389,6 +2519,12 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    }
    }
   },
   {
@@ -2543,6 +2679,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -2578,6 +2718,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -2614,6 +2763,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -2636,6 +2794,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -2658,6 +2820,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -2680,6 +2846,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -2702,6 +2872,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://fms.komkon.org/iNES/"
    }
   },
   {
@@ -2733,6 +2907,11 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30
+    }
    }
   },
   {
@@ -2872,6 +3051,11 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30
+    }
    }
   },
   {
@@ -2909,6 +3093,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -2970,6 +3163,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -2992,6 +3194,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -3014,6 +3220,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/mupen64plus-ae/mupen64plus-ae"
    }
   },
   {
@@ -3036,6 +3246,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -3058,6 +3272,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -3113,6 +3331,12 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    }
    }
   },
   {
@@ -3168,6 +3392,12 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    }
    }
   },
   {
@@ -3225,6 +3455,12 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    }
    }
   },
   {
@@ -3304,6 +3540,12 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    }
    }
   },
   {
@@ -3326,6 +3568,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -3361,6 +3607,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -3396,6 +3651,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -3418,6 +3682,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -3454,6 +3722,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -3512,6 +3789,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -3537,6 +3823,14 @@
      "slot": "EXTRA",
      "key": "rom_uri"
     }
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -3560,6 +3854,14 @@
      "form": "SAF_URI",
      "slot": "EXTRA",
      "key": "rom_uri"
+    }
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
     }
    }
   },
@@ -3586,6 +3888,12 @@
      "slot": "EXTRA",
      "key": "rom_uri"
     }
+   },
+   "notice": {
+    "en": {
+     "title": "Pizza Boy Free Version Launching Support",
+     "message": "The free versions of the Pizza Boy Emulators don't support launching a ROM from a frontend. Selecting a game will launch the Pizza Boy (free version) app, but you will have to launch your game from the emulator. The 'Pro' versions of Pizza Boy do support launching a ROM from frontends, along with many extra features, so I highly recommend getting the Pro version (and supporting the developer!)"
+    }
    }
   },
   {
@@ -3609,6 +3917,12 @@
      "form": "SAF_URI",
      "slot": "EXTRA",
      "key": "rom_uri"
+    }
+   },
+   "notice": {
+    "en": {
+     "title": "Pizza Boy Free Version Launching Support",
+     "message": "The free versions of the Pizza Boy Emulators don't support launching a ROM from a frontend. Selecting a game will launch the Pizza Boy (free version) app, but you will have to launch your game from the emulator. The 'Pro' versions of Pizza Boy do support launching a ROM from frontends, along with many extra features, so I highly recommend getting the Pro version (and supporting the developer!)"
     }
    }
   },
@@ -3709,6 +4023,10 @@
      "slot": "EXTRA",
      "key": "cd"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://www.arts-union.ru/node/23"
    }
   },
   {
@@ -3732,6 +4050,10 @@
      "slot": "EXTRA",
      "key": "rom"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://www.arts-union.ru/node/23"
    }
   },
   {
@@ -3754,6 +4076,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/lubomyr/uae4arm/releases"
    }
   },
   {
@@ -3776,6 +4102,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -3809,6 +4139,12 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    }
    }
   },
   {
@@ -3842,6 +4178,12 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    }
    }
   },
   {
@@ -3864,6 +4206,10 @@
      "form": "RAW_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/reicast/reicast-emulator"
    }
   },
   {
@@ -3886,6 +4232,10 @@
      "form": "RAW_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/reicast/reicast-emulator"
    }
   },
   {
@@ -3921,6 +4271,10 @@
       }
      }
     ]
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/Rakashazi/emu-ex-plus-alpha/releases"
    }
   },
   {
@@ -3956,6 +4310,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -3978,6 +4341,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -4048,6 +4415,10 @@
      "form": "PROVIDER_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/skylersaleh/SkyEmu/releases"
    }
   },
   {
@@ -4127,6 +4498,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -4149,6 +4524,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -4171,6 +4550,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -4229,6 +4612,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -4251,6 +4638,10 @@
      "slot": "EXTRA",
      "key": "org.uoyabause.android.FileNameEx"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/devmiyax/yabause"
    }
   },
   {
@@ -4273,6 +4664,10 @@
      "slot": "EXTRA",
      "key": "org.uoyabause.android.FileNameEx"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/devmiyax/yabause"
    }
   },
   {
@@ -4303,6 +4698,15 @@
       "open": true
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 29
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -4325,6 +4729,10 @@
      "slot": "EXTRA",
      "key": "org.uoyabause.android.FileNameEx"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/devmiyax/yabause"
    }
   },
   {
@@ -4359,6 +4767,15 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 29
+    },
+    "media_access": {
+     "max_device_sdk": 29
+    }
    }
   },
   {
@@ -4382,6 +4799,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://fms.komkon.org/VGB/"
    }
   },
   {
@@ -4483,6 +4904,11 @@
       }
      ]
     }
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30
+    }
    }
   },
   {
@@ -4519,6 +4945,12 @@
       }
      }
     ]
+   },
+   "prelaunch": {
+    "folder_grant": {
+     "min_target_sdk": 30,
+     "min_device_sdk": 30
+    }
    }
   },
   {
@@ -4541,6 +4973,10 @@
      "form": "PROVIDER_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -4563,6 +4999,10 @@
      "form": "PROVIDER_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": null
    }
   },
   {
@@ -4585,6 +5025,10 @@
      "form": "PROVIDER_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/SSimco/Cemu/releases"
    }
   },
   {
@@ -4629,6 +5073,10 @@
      "form": "PROVIDER_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/ARMSX2/ARMSX2/releases"
    }
   },
   {
@@ -4655,6 +5103,40 @@
       "{id}"
      ]
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/Vita3K/Vita3K/releases"
+   }
+  },
+  {
+   "name": "Vita3K+",
+   "rev": 2,
+   "type": "app",
+   "package": "org.vita3kplus.emulator",
+   "systems": [
+    "Sony Playstation Vita"
+   ],
+   "launch": {
+    "kind": "intent",
+    "package": "org.vita3kplus.emulator",
+    "activity": "org.vita3k.emulator.Emulator",
+    "flags": [
+     "NEW_TASK"
+    ],
+    "id": {
+     "kind": "VITA_TITLE_ID",
+     "slot": "EXTRA_ARGS",
+     "key": "AppStartParameters",
+     "args": [
+      "-r",
+      "{id}"
+     ]
+    }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/nckstwrt/Vita3K-Plus"
    }
   },
   {
@@ -4744,6 +5226,12 @@
      "slot": "EXTRA",
      "key": "intent_msg1"
     }
+   },
+   "notice": {
+    "en": {
+     "title": "Magic DosBox Setup",
+     "message": "Magic DosBox launches games from its own collection, so set each game up in Magic DosBox first.\n\nIn your DOS folder, put one .magicbox text file per game: name it after the game, and put the game's Magic DosBox ID on its first line.\n\nIf a .magicbox file's ID isn't one of your Magic DosBox games, or you launch another kind of DOS file (a .zip, for example), Magic DosBox opens on its own games page instead: start the game from there."
+    }
    }
   },
   {
@@ -4770,6 +5258,12 @@
      "kind": "MAGIC_DOSBOX_ID",
      "slot": "EXTRA",
      "key": "intent_msg1"
+    }
+   },
+   "notice": {
+    "en": {
+     "title": "Magic DosBox Setup",
+     "message": "Magic DosBox launches games from its own collection, so set each game up in Magic DosBox first.\n\nIn your DOS folder, put one .magicbox text file per game: name it after the game, and put the game's Magic DosBox ID on its first line.\n\nIf a .magicbox file's ID isn't one of your Magic DosBox games, or you launch another kind of DOS file (a .zip, for example), Magic DosBox opens on its own games page instead: start the game from there."
     }
    }
   },
@@ -4892,6 +5386,10 @@
      "slot": "EXTRA",
      "key": "title_id"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/ARMSX2/ARMSX3/releases"
    }
   },
   {
@@ -4947,6 +5445,10 @@
      "slot": "EXTRA",
      "key": "titleId"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/sashkinbro/EmuCoreC/releases"
    }
   },
   {
@@ -4991,6 +5493,10 @@
      "form": "PROVIDER_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/rfandango/hakuX/releases"
    }
   },
   {
@@ -5014,6 +5520,10 @@
      "form": "FILE_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/Yebot32/xenra/releases"
    }
   },
   {
@@ -5082,6 +5592,10 @@
      "form": "PROVIDER_URI",
      "slot": "DATA"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/rfandango/XenDroid/releases"
    }
   },
   {
@@ -5105,6 +5619,10 @@
      "slot": "DATA_AND_EXTRA",
      "key": "uri"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/Ashnar2602/X360-Mobile---OFFICIAL/releases"
    }
   },
   {
@@ -5149,6 +5667,10 @@
      "slot": "EXTRA",
      "key": "game_id"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/JICA98/Bachata-S4/releases"
    }
   },
   {
@@ -5648,6 +6170,10 @@
      "slot": "EXTRA",
      "key": "game_uri"
     }
+   },
+   "install": {
+    "play": false,
+    "url": "https://github.com/phforner0/Xendroid-Plus/releases"
    }
   },
   {

@@ -1,9 +1,9 @@
 {
  "schema": 1,
- "revision": 1,
- "generatedAt": "2026-11-17T03:27:33Z",
+ "revision": 2,
+ "generatedAt": "2026-11-19T20:56:27Z",
  "file": "emulators.json",
- "size": 115947,
- "sha256": "cd06296bd9ec08295058634340f860ec036bbf93d5661ec320f28e9084f6c65b",
- "entries": 292
+ "size": 128528,
+ "sha256": "76f89d9bc3e7a74f7b4802e27c447d2374644fbc2a680bc0d59a9a5850444865",
+ "entries": 293
 }
